@@ -1,0 +1,519 @@
+﻿stanford-encyclopedia-philosophy
+train·183k rows
+train (183k rows)
+206 results
+metadata
+stringlengths
+5054
+23.4%
+	
+
+	text
+stringlengths
+115.6k
+100%
+	category
+stringlengths
+1418
+23.4%
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	For this response to have force, however, opponents of moral skepticism need to say why moral nihilism is irrelevant. It seems relevant, for the simple reason that it is directly contrary to the moral belief that is supposed to be justified. Moreover, real people believe and give reasons to believe in moral nihilism. Some people are led to moral nihilism by the absence of any defensible theory of morality. If consequentialism is absurd or incoherent, as some critics argue, and if deontological restrictions and permissions are mysterious and unfounded, as their opponents argue, then some people might believe moral nihilism for reasons similar to those that led scientists to reject phlogiston. Another basis for moral nihilism cites science. If all of our moral beliefs can be explained by sociobiology and/or other social sciences without assuming that any moral belief is true, then some might accept moral nihilism for reasons similar to those that lead many people to reject witches or elves. The point is not that such reasons for moral nihilism are adequate. The point here is only that there is enough prima facie reason to believe moral nihilism that it cannot be dismissed as irrelevant on this basis. If moral nihilism is relevant, and if closure holds for all or at least relevant alternatives, and if moral nihilism cannot be ruled out in any way, then moral skepticism seems to follow.
+	skepticism-moral
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	Since moral nihilism conflicts with many commonsense moral beliefs, most people do not take moral nihilism seriously in ordinary discussions, so the modest contrast class does not include moral nihilism. Thus, anyone who can rule out all other members of the modest contrast class but cannot rule out moral nihilism is justified in believing the moral claim out of the modest contrast class but not out of the extreme contrast class.
+	skepticism-moral
+	https://plato.stanford.edu/entries/heidegger/
+	
+
+	[The] perpetual appearance of chance at the heart of my projects cannot be apprehended as my possibility but, on the contrary, as the nihilation of all my possibilities. A nihilation which itself is no longer a part of my possibilities. Thus death is not my possibility of no longer realizing a presence in the world but rather an always possible nihilation of my possibilities which is outside my possibilities. (Sartre 1956, 537)
+	heidegger
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Most of these five monisms are independent, though there are the following logical relations. Pluralism about the number of basic tokens for some concrete category entails pluralism about the respective number of tokens. In the other direction, both monism and nihilism about the number of tokens for some concrete category entails a corresponding monism or nihilism about the respective number of basic tokens. Further, nihilism about the number of highest types for any concrete category entails nihilism about the number of tokens (and thus the number of basic tokens) for that category.
+	monism
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	There are two main responses to such skeptical hypothesis arguments (cf. May 2013). First, some anti-skeptics deny (1) and claim that skeptical hypotheses can be ruled out somehow. They might argue that moral nihilism is internally inconsistent or meaningless. If so, it can be ruled out by logic and semantics alone. However, moral nihilism does seem consistent and meaningful, according to all plausible theories of moral language, including expressivism, realism, and constructivism (Sinnott-Armstrong 2006, chap. 3). Moral nihilism is also not subject to the kind of argument that Putnam (1981) deploys against more general skeptical scenarios. Anti-skeptics still might argue that moral nihilism is incompatible with some non-moral facts or observations or their best explanations. If so, it can be ruled out by arguments with only non-moral premises. However, all such attempts to cross the dreaded is-ought gap are questionable (Sinnott-Armstrong 2006, chaps. 7–8). A third way to rule out moral nihilism would be based on common moral beliefs that are incompatible with moral nihilism. However, just as it would beg the question to use common beliefs about the external world to rule out a deceiving demon hypothesis, so it would also beg the question to argue against moral nihilism on the basis of common moral beliefs — no matter how obvious those beliefs might seem to us, and no matter how well these common beliefs cohere together (Sinnott-Armstrong 2006, chaps. 9–10). Moral skeptics conclude that there is no way to rule out moral nihilism, just as premise (1) claims.
+	skepticism-moral
+	https://plato.stanford.edu/entries/mereology/
+	
+
+	says it all: nothing would be part of anything else and parthood would collapse to identity. (This account is sometimes referred to as mereological nihilism, in contrast to the mereological universalism expressed by (P.15i); see van Inwagen 1990: 72ff.[25] Van Inwagen himself endorses a restricted version of nihilism, which leaves room for composite living things. So does Merricks 2000, 2001, whose restricted nihilism leaves room for composite conscious things.)
+	mereology
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	Moral nihilism here is not about what is semantically or metaphysically possible. It is just a substantive, negative, existential claim that there does not exist anything that is morally wrong. It is, however, usually supplemented with an explanation of why people hold moral beliefs that are false (just as the story of Descartes’s deceiving demon is supposed to explain why our perceptual beliefs are false). This thesis of moral nihilism has been supported by various reasons, including the pervasiveness of moral disagreement and our supposed ability (with the help of sociobiology and other sciences) to explain moral beliefs without reference to moral facts. Since people do take moral nihilism seriously and even argue for it (Mackie 1977, Joyce 2001), moral nihilism cannot be dismissed as readily as Descartes’s deceiving demon.
+	skepticism-moral
+	https://plato.stanford.edu/entries/life-meaning/
+	
+
+	One straightforward rationale for nihilism is the combination of extreme supernaturalism about what makes life meaningful and atheism about whether a spiritual realm exists. If you believe that God or a soul is necessary for meaning in life, and if you believe that neither is real, then you are committed to nihilism, to the denial that life can have any meaning. Athough this rationale for nihilism was prominent in the modern era (and was more or less Camus’ position), it has been on the wane in analytic philosophical circles, as extreme supernaturalism has been eclipsed by the moderate variety.
+	life-meaning
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	These arguments for moral skepticism differ in many ways, but they seem mutually supportive. One crucial premise in the skeptical hypothesis argument claims that nothing can rule out moral nihilism. The best way to support that premise is to criticize each method for ruling out moral nihilism. That is just one instance of what the regress argument does more generally. The argument from moral explanations excludes yet another way to rule out moral nihilism. So, if these other arguments work, they support a crucial premise in the skeptical hypothesis argument.
+	skepticism-moral
+	https://plato.stanford.edu/entries/object/
+	
+
+	These strategies by which to eliminate object-talk suggest a defensive move available to nihilists: paraphrase apparently true sentences that appear to require objects into sentences that do not. Such a strategy may neutralize objections to nihilism. But another question remains; is there reason to affirm nihilism in the first place?
+	object
+	https://plato.stanford.edu/entries/ordinary-objects/
+	
+
+	Some eliminativists accept nihilism, the thesis that no objects ever compose anything. In other words, every object is mereologically simple (i.e., partless). Together with the plausible assumption that ordinary objects (if they exist) are all composite objects, nihilism entails that there are no ordinary objects. Nihilists typically accept that there are countless microscopic objects: although there are “simples arranged dogwise” and “simples arranged statuewise”, there are no dogs or statues. But nihilism is also compatible with existence monism—the thesis that there is a single, all-encompassing simple (the cosmos, a.k.a. “the blobject”)—as well as the extreme nihilist thesis that there are no objects whatsoever.[3]
+	ordinary-objects
+	https://plato.stanford.edu/entries/scottus-eriugena/
+	
+
+	Book Three discusses the nature of created effects and the meaning of “creation from nothing” (creatio ex nihilo). The term “nothing” has two meanings: it can mean “nothing through privation” (nihil per privationem), or “nothing on account of excellence” (nihil per excellentiam). The lowest rung in the hierarchy of being, unformed matter, is “almost nothing” (prope nihil), or “nothing through privation”. In contrast, God is non-being through the excellence of His nature which transcends all being. Since there is nothing outside God, “creation from nothing” cannot mean creation from some principle outside God, rather it means: creation out of God’s superabundant nothingness. God creates out of himself (a se) and all creation remains within him.
+	scottus-eriugena
+	https://plato.stanford.edu/entries/ordinary-objects/
+	
+
+	GK1 is plausible. It seems easy enough to imagine gunky objects, for instance by imagining an object with a right and left half, each of which itself has a right and left half, which themselves have right and left halves … “all the way down”, and never terminating in simple parts. Moreover, it may even be that actually all objects are gunky. GK2 is trivial: if there are gunky objects in world w, then there is something with parts in w, in which case there are composites in w and nihilism is false in w. GK3 is plausible as well: the actual world contains what would seem to be paradigm cases of composites (trees, etc.), so if composition occurs anywhere, it surely occurs here. Moreover, nihilism is meant to be an answer to the special composition question, and one would expect such an answer to be giving necessary and sufficient conditions for composition—in which case one would expect proponents of nihilism to regard it as a necessary truth.[73]
+	ordinary-objects
+	https://plato.stanford.edu/entries/monism/
+	
+
+	The formulae associated with priority monism are thus the same formulae as for existence monism/pluralism/nihilism, save for the replacement of ‘\(C\)’ with ‘\(B\).’ Note that it is not built into the formulation of Priority monism that the one basic concretum has any particular nature. Priority monism, Priority pluralism, and Priority nihilism are so far characterized as strictly numerical doctrines, concerning the number of basic concreta (one, many, or none).
+	monism
+	https://plato.stanford.edu/entries/nietzsche-moral-political/
+	
+
+	(P′) now is simply a different formulation of the (IC): if we accept the (IC) then we should accept (P′). But what happens, then, if we grant the truth of Descriptive Hedonism: namely, that only pleasure is, in fact, desired. In that case, it would now follow that only pleasure is desirable (ought to be desired) (assuming, again, that Value Nihilism is false). That is, since something ought to be desired only if it can be desired (internalism), then if only x can be desired, then only x ought to be desired (assuming that Value Nihilism is false).
+	nietzsche-moral-political
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Existence nihilism: \({\sim}\exists xCx\)
+	monism
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Priority nihilism: \({\sim}\exists xBx\)[31]
+	monism
+	https://plato.stanford.edu/entries/object/
+	
+
+	The aforementioned authors all seem to agree that if first-order logic, which quantifies over objects, can be replaced with a logic that doesn’t so quantify, or one can give a translation of every intuitively true sentence of first-order logic into another language that doesn’t quantify over objects, then ontological nihilism is vindicated. That is, if one can give an “ontologically innocent” (that is, one that doesn’t quantify over anything) paraphrase of every sentence, or a scheme for so doing, then ontological nihilism is on good footing.
+	object
+	https://plato.stanford.edu/entries/monism/
+	
+
+	The corresponding logical formulae for existence pluralism and nihilism then run:
+	monism
+	https://plato.stanford.edu/entries/monism/
+	
+
+	The corresponding logical formulae for priority pluralism and nihilism then run:
+	monism
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	Moral Nihilism = Nothing is morally wrong.
+	skepticism-moral
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	(1) I am not justified in believing the denial of moral nihilism.
+	skepticism-moral
+	https://plato.stanford.edu/entries/richard-sophister/
+	
+
+	(157) Nothing is true about nothing (De nihilo nihil est verum)
+	richard-sophister
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	Contextualists say that the modest contrast class is relevant in everyday contexts, such as hospital ethics committees, where it would be seen as a distraction to discuss moral nihilism. Nonetheless, the extreme contrast class is said to be relevant in philosophical contexts, such as philosophy classes where moral nihilism is taken seriously. This allows contextualists to hold that a doctor in a hospital ethics committee is justified in believing a moral claim that a philosophy student with the same evidence would not be justified in believing.
+	skepticism-moral
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	Moral skeptics can then argue that the definition of moral nihilism forestalls any refutation. Since moral nihilists question all of our beliefs in moral wrongness, they leave us with no starting points on which to base arguments against them without begging the question at issue. Moreover, moral nihilists’ explanations of our moral beliefs predict that we would hold exactly these moral beliefs, so the truth of its predictions can hardly refute moral nihilism. If this trick works, then it fits right into a skeptical hypothesis argument.
+	skepticism-moral
+	https://plato.stanford.edu/entries/kyoto-school/
+	
+
+	Yet the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness on the “field of śūnyatā.” Nishitani thus explained the personal encounter with nihilism as an experience of the extreme relative nothingness of “nihility” or “vacuous nothingness” (kyomu), and for him the central task of “overcoming nihilism by way of passing through nihilism” entailed transgressing beneath (i.e., “trans-descending”) the “field of nihility” to the “field of śūnyatā” (see NKC X, 109 and 122ff.; Nishitani 1986, 97 and 108ff.).[15] As mentioned earlier (subsection 3.2), the “field of śūnyatā” is not a vacuum of relative nothingness that assaults beings from without; it is an open clearing wherein beings are neither nullified nor reified but rather let be in the mutual freedom of their coming to be and passing away. It is also the place in which a genuine interpersonal encounter can take place (Nishitani 2004; Davis 2017).
+	kyoto-school
+	https://plato.stanford.edu/entries/scottus-eriugena/
+	
+
+	One of the striking features of this complex—and certainly, in this form, original—account is that being and non-being are treated as correlative categories: something may be said to be under one mode and not to be under another. Attribution of being is subject to the dialectic of affirmation and negation. Eriugena returns in Book Three to give a very complex discussion of the meaning of “ex nihilo” in the concept of creatio ex nihilo, which makes use of some of these modes of being and non-being, and, in general, these modes should be borne in mind when interpreting Eriugena’s more overt metaphysical statements. Thus when Eriugena calls God “nothing”, he means that God transcends all created being, God is nihil per excellentiam (“nothingness on account of excellence”) or, as he puts it, nihil per infinitatem (“nothingness on account of infinity”). Matter, on the other hand, is also called “nothing” but it is “nothing through privation” (nihil per privationem). Similarly, created things are called “nothing” because they do not contain in themselves their principles of subsistence (Eriugena is here repeating St. Augustine’s view that the creature, considered apart from God, is mere nothing).
+	scottus-eriugena
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	The latter but not the former follows if nobody can ever rule out moral nihilism, but some believers sometimes can rule out all other members of the modest contrast class.
+	skepticism-moral
+	https://plato.stanford.edu/entries/ordinary-objects/
+	
+
+	If the argument is sound then either universalism or nihilism must be correct, though which of them is correct would have to be decided on independent grounds.[15]
+	ordinary-objects
+	https://plato.stanford.edu/entries/kyoto-school/
+	
+
+	The Kyoto School thinkers rarely responded directly to their critics after the war, and we can only speculate on the reasons for this (see Horio 1994, 300). They accepted suspension from their posts without comment or complaint, and continued on with their philosophizing, albeit without the overtly political element of their thought. Nishitani, for example, came into his own as a philosopher of religion in the postwar era. He continued to philosophically develop Eastern ideas, those of Zen Buddhism in particular, in dialogue with medieval Christian mysticism as well as postmodern existentialism and phenomenology and in response to what he saw as the central problem of modernity, namely, nihilism. In his mature attempts to “overcome nihilism by way of passing through nihilism” (NKC XX, 192), we find a significant thread of continuity with his pre-war and wartime attempts to overcome (Western) modernity by way of passing through it. But it is nevertheless possible to mark a crucial and self-critical “turn” in his thinking with regard to the question of the political role—or, as it turns out, the lack of one—to be played by the Japanese state in this overcoming of modernity and nihilism by way of passing through them (see Davis 2008b).
+	kyoto-school
+	https://plato.stanford.edu/entries/kyoto-school/
+	
+
+	The question of how to open up an existential path to the place of absolute nothingness was particularly acute given the prevalence of the pendulum swing between two extremes endemic to modernity: on the one hand, an extreme reification of the subjective ego together with a corresponding objectification and technological manipulation of things; and, on the other hand, a reactive nihilism which threatens to nullify the very reality of both the self and things. For Nishitani, humanism and science were incapable of overcoming this dilemma of reification vs. nullification; in fact, they had helped create it. In an age of secular egoism and nihilism, how could an experience of the place of absolute nothingness take place?
+	kyoto-school
+	https://plato.stanford.edu/entries/robert-kilwardby/
+	
+
+	APM has no form whatsoever and underlies (substat) all forms it receives: first the general forms, then the special forms. Even then, Kilwardby claims, matter is not nothing simpliciter, that is, lacking being but rather nothing actual (sed non ideo dicitur simpliciter nihil, sed nihil actuale: QLIS 79, 254). Naked prime matter receives first the form of the most general genus, substance, and through this form prime matter is divided into numerically distinct things (only form distinguishes; QLIIS 16, 60; DOS 208; 406). This is the matter common to spiritual and corporeal things.
+	robert-kilwardby
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	(2) I am justified in believing that [(p) “It is morally wrong to torture babies just for fun” entails (q) the denial of moral nihilism].
+	skepticism-moral
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	The extreme contrast class for a moral belief that p includes every moral claim that is contrary to p, including moral nihilism.
+	skepticism-moral
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	The Pyrrhonists, with their more thoroughgoing scepticism, could neither assent to the positive theory of knowledge, nor to the definite conclusion that nihil scitur. (Popkin 1964: 42)
+	francisco-sanches
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	Regardless of the extent of the debt Descartes owed Sanches, great or small, it is undeniable that even as a background figure in Cartesian studies, Sanches holds a noteworthy place firstly in the history of scepticism, and secondly in the history of modern philosophy. Possibly thanks to Limbrick and Thomson’s English edition of Quod nihil scitur, Sanches was at last acknowledged as a source in Cartesian studies in Ariew, Cottingham, and Sorell’s Descartes’ Meditations: Background Source Materials (1998). Here, along with some new translations of selected passages from Quod nihil scitur, John Cottingham writes that
+	francisco-sanches
+	https://plato.stanford.edu/entries/sartre/
+	
+
+	Every apprehension of the real as a world tends of its own accord to end up with the production of irreal objects since it is always, in a sense, free nihilation of the world and this always from a particular point of view. (Sartre 1940 [2004: 185])
+	sartre
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	Problems arise when contexts cross. Consider a philosophy student who says that the doctor on the ethics committee is not justified in believing the moral claim. Is the student’s contrast class (with moral nihilism) or the doctor’s contrast class (without moral nihilism) really relevant to the student’s judgment about the doctor’s belief? And what if the doctor says that the student really is justified while in the philosophy class? When epistemic assessments cross contexts in such ways, sometimes the believer’s context seems relevant, but sometimes the assessor’s context seems relevant, so it is hard to see any basis for claiming that either context or either contrast class really is the relevant one for assessing whether the believer really is justified (without qualification).
+	skepticism-moral
+	https://plato.stanford.edu/entries/kyoto-school/
+	
+
+	To begin with, Nishitani says we must heed the call of Nietzsche’s madman and cease fleeing from the experience of nihilism. God as the highest being is dead, and it remains an open question whether he can be reborn as absolute nothingness. In any case, the venture of Nishitani’s philosophy of Zen is more concerned with the existential imperative of letting go of attachments than it is with immediately grasping hold of a new concept for God. In order to finally free humans from their egoistic obsessions and manipulative objectifications in the dualistic “field of being and consciousness,” Nishitani argued for the necessity of first boldly stepping back into the “field of nihility.”
+	kyoto-school
+	https://plato.stanford.edu/entries/monism/
+	
+
+	No gaps rules out Priority nihilism. For if nothing is basic, then the sum of the basic concreta cannot be the cosmos. This makes Priority monism and Priority pluralism exhaustive doctrines.
+	monism
+	https://plato.stanford.edu/entries/material-constitution/
+	
+
+	This kind of eliminativism is often associated with Peter Unger (1979), who (at one time) defended the thesis of mereological nihilism. Nihilism is the view that there are there are no composite objects (i.e., there are no objects with proper parts—only atoms exist). On this view, there are no statues, animals or any other macroscopic object made up out of smaller parts. Since the nihilist denies the existence of statues in general, he will deny the existence of the particular statue, David. Hence, he will reject the very first premise of the original argument for coincident objects. He will also reject the second premise of that argument, since he will deny the existence of the relevant lump. (Note that Unger’s use of ‘nihilism’ differs slightly from its current meaning—see van Inwagen 1990, p. 73.)
+	material-constitution
+	https://plato.stanford.edu/entries/peter-damian/
+	
+
+	The remarks about “nothing” and “something” are related to Damian’s conception of the major metaphysical division among things in the world. The things in the world can be divided into the good (bona) and the bad or evil (mala), and these are quite different from each other (see 602A–C, 608B–610D, 618B–C). What is characteristic of good things is that they are (esse) and that they are something (aliquid). The good things that are have been made by God and are willed by God. Evil things are not willed by God, and they are far away from him. The being of evil is apparent and not real. Evil things seem to be, but in the testimony of the truth, they are not (non esse); they are not something but nothing (nihil). God is not the author of evil, for “nothing was made without him” (sine ipso factum est nihil, John 1:3).
+	peter-damian
+	https://plato.stanford.edu/entries/nothingness/
+	
+
+	Although possible worlds became popular among analytic philosophers after revolutionary advances in modal logic in the 1960s, possible worlds receive little attention from existentialists. Their discussion of objects is more in line with powers ontology advocated by Heil. Indeed, some existentialists picture nothingness as a kind of force that impedes each object’s existence. Since there is something rather than nothing, any such nihilating force cannot have actually gone unchecked. What could have blocked it? Robert Nozick (1981, 123) toys with an interpretation of Heidegger in which this nihilating force is self-destructive. This kind of double-negation is depicted in the Beatles’s movie Yellow Submarine. There is a creature that zooms around like a vacuum cleaner, emptying everything in its path. When this menace finally turns on itself, a richly populated world pops into existence.
+	nothingness
+	https://plato.stanford.edu/entries/empiricism-ancient-medieval/
+	
+
+	It follows (in a phrase for which Bacon has become famous) that “without experience nothing can be sufficiently known” (sine experientia nihil sufficienter sciri potest) (OM 6.1).
+	empiricism-ancient-medieval
+	https://plato.stanford.edu/entries/existentialism/
+	
+
+	For Kierkegaard, existence emerges as a philosophical problem in the struggle to think the paradoxical presence of God; for Nietzsche it is found in the reverberations of the phrase “God is dead,” in the challenge of nihilism.
+	existentialism
+	https://plato.stanford.edu/entries/ordinary-objects/
+	
+
+	Just as the possibility of infinite descent can be wielded against nihilism, the possibility of infinite ascent can be wielded against universalism. Let us say that a world is “junky” iff every object in that world is a part of some further object.
+	ordinary-objects
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	Sanches’s Quod nihil scitur contains, besides a skeptical demolition, also a pars construens, which seems particularly relevant in order to understand the Cartesian certainty about reflexive knowledge, typically the cogito. (2009: 249)
+	francisco-sanches
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	Although occasionally there may be references to a variety of texts, for reasons of space, the focus here will be on Carmen de cometa [Poem of the Comet] and the Letter to Christopher Clavius, for they best serve as a bridge to Quod nihil scitur/That Nothing is Known (QNS/TNK), the work that made Sanches famous and continues to be studied; either because of its own intrinsic merits or in connection with René Descartes’ (1596–1650) “radical doubt”, and other sixteenth and seventeenth century sceptics like Pierre Charron (1541–1603) or Montaigne. The essay will consequently begin with Carmen de cometa (1578)/Poem of the Comet, move to Sanches’ “Letter to Christopher Clavius”, and will lastly deal with Quod nihil scitur (1581)/That Nothing is Known (1988, TNK).
+	francisco-sanches
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	I have often thought that a reply by a geometrician to the objections of Sextus Empiricus and to the things which Francis Sanchez, author of the book Quod nihil scitur, sent to Clavius, or to similar critics, would be more useful than we can imagine. (1702 [1970: 544])
+	francisco-sanches
+	https://plato.stanford.edu/entries/logic-classical/
+	
+
+	Of course, this is not the place to pursue this matter in detail. See Beall and Restall [2006] and Shapiro [2014] for examples of pluralism, and the entry on logical pluralism for an overview of the terrain for both logical pluralism and logical nihilism.
+	logic-classical
+	https://plato.stanford.edu/entries/object/
+	
+
+	Here are some candidate answers to the SCQ. Contact: ‘the xs are in contact’. Life: ‘the xs are caught up in a life’. Mereological Nihilism: ‘there is only one of the xs’. Mereological Universalism: ‘the xs are one or more in number’.
+	object
+	https://plato.stanford.edu/entries/ibn-rushd-natural/
+	
+
+	If we would affirm an endless decrease (diminutio), it would be not impossible because decrease is going towards nothing (ad nihil), the cause of which is matter; addition is going towards being, the cause of which is form, infinity exists because of matter, as finiteness does because of form. (LC 114B).
+	ibn-rushd-natural
+	https://plato.stanford.edu/entries/kyoto-school/
+	
+
+	The problem of nihilism gradually became the major focus of Nishitani’s personal and scholarly attention. Nishitani understood the historical phenomenon of nihilism as a vacuous nothingness that assaults the modern world, a world bereft of its ethical and religious moorings. Despite the profundity of his mentor Nishida’s philosophy, it failed to adequately address this crucial modern problem (see Ueda 2011a). According to Nishitani, Nishida’s philosophy, whether it be his early thought of “pure experience” or the later notion of “action-intuition,” begins already from a standpoint where the dualistic consciousness of the ego has already been broken though (see NKC IX 247–48; Nishitani 1991, 184–85). For his part, Nishitani was concerned with the question of how to think the topological pathway leading to such a breakthrough to non-duality.
+	kyoto-school
+	https://plato.stanford.edu/entries/vasubandhu/
+	
+
+	The danger of nihilism is perhaps the primary justification for the Buddha’s having spoken words that were technically untrue. Vasubandhu provides a similar example in the “Disproof of the Person” section of the Treasury. (See the section concerning disproof of person.) There, Vasubandhu was arguing with the Personalists, who pointed to a scripture in which the Buddha remained silent when asked whether or not the person existed after death. The Personalists, of course, saw this as evidence that the Buddha affirmed the ineffability of the person. Vasubandhu says, in response, that the Buddha explained quite clearly (to Ānanda, his disciple, after the questioner left) why there had been no good way to answer. To affirm a self would be to imply a false doctrine, but to deny the self (in this case, stating the truth) would cause the confused questioner to fall into a still greater falsehood: Namely, the thought of formerly having had a self, but now having none. This is the view, once again, of the self being “cut off” or “destroyed” (uccheda), the view that leads to moral nihilism.
+	vasubandhu
+	https://plato.stanford.edu/entries/shankara/
+	
+
+	Negative language usually constitutes half of a paradox that affirms positive and negative propositions at the same time. Textual instances of negation usually follow positive statements about brahman which provide an explicit positive proposition of continuity. There is a positive assertion of an entity but the negative language strips that entity of any limitations or finite objectivity. This methodology threads the needle of indicating brahman’s presence without objectifying it. It ensures that the reader neither grasps at an object nor falls into nihilism. The negative assertions of neti neti, which follow or imply a positive assertion, parallel the other two methods. Lakṣaṇā and anvaya-vyatireka similarly depend on negation through mutual restriction, while simultaneously indicating the intrinsic nature of brahman without falling into nihilism.
+	shankara
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Given 25, the priority pluralist may try to argue from the right bijunct to priority pluralism, and the priority monist may try to argue from the denial of the right bijunct to the denial of priority pluralism (which still leaves open priority nihilism, but at least eliminates the more popular competitor). So the argument continues:
+	monism
+	https://plato.stanford.edu/entries/postmodernism/
+	
+
+	On Vattimo's account, Nietzsche and Heidegger can be brought together under the common theme of overcoming. Where Nietzsche announces the overcoming of nihilism through the active nihilism of the eternal return, Heidegger proposes to overcome metaphysics through a non-metaphysical experience of being. In both cases, he argues, what is to be overcome is modernity, characterized by the image that philosophy and science are progressive developments in which thought and knowledge increasingly appropriate their own origins and foundations. Overcoming modernity, however, cannot mean progressing into a new historical phase. As Vattimo observes: “Both philosophers find themselves obliged, on the one hand, to take up a critical distance from Western thought insofar as it is foundational; on the other hand, however, they find themselves unable to criticize Western thought in the name of another, and truer, foundation” (Vattimo 1988 [1985], 2). Overcoming modernity must therefore mean a Verwindung, in the sense of twisting or distorting modernity itself, rather than an Überwindung or progression beyond it.
+	postmodernism
+	https://plato.stanford.edu/entries/sakya-pandita/
+	
+
+	The point that links these various concerns is the overarching worry about moral nihilism, which arises from the claim that all practices can be reduced to one, combined with the unbridled confidence in creative, doctrinal innovation. This allows the practitioner to forego the long and difficult moral training of the bodhisattva in favor of an easy, but delusory, instantaneous quasi-attainment. For fear of prolixity, I will leave off from Sapaṇ’s argument, in which he employs his distinctive approach to the doctrine of emptiness and the two truths. Indeed, although Sapaṇ did not write any works dedicated to the doctrine of emptiness, his view—that, in brief, ultimate truth is beyond all conceptual elaboration—is an important contribution that deserves further study. Suffice it to say that his view is tailor made to prevent both the conceptual reification of emptiness that he criticizes in the Treasury and the nihilism that he criticizes in the Sage’s Intent.
+	sakya-pandita
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	In any case, one of the first to note the similarities in tone, and even to go as far as to declare Sanches a precursor of Descartes was Étienne Gilson in his commentary on Discours de la méthode (1925). More than Charron or the Montaigne of Apologie de Raimond Sebond (1580), it is Sanches, says Gilson, who seems to have had the greater impact on Descartes’ doubt and his response to the sceptical position (1925: 267, 268; Paganini 2009: 254–255), given the “striking parallelism of their respective experiences” (1925: 267, my translation). In fact, the linking of their names in the seventeenth century at the universities of Utrecht, Groningen and Leiden, says Limbrick, is what led them to be considered Pyrrhonian sceptics with atheistic leanings (TNK: 82). What nonetheless remains unknown is when and how Descartes came across Quod nihil scitur. In Les premières pensées de Descartes (1979), Henri Gouhier conjectures that Descartes might have come across Quod nihil scitur sometime during his student years at La Flèche (1606–1614), or read the 1618 Frankfurt edition of the treatise (1979: 116), “when he was in Frankfurt for the coronation of the Emperor Ferdinand II in 1619” (Limbrick 1988: 83). According to Limbrick the Frankfurt 1618 edition of Quod nihil scitur seems to have impacted the European philosophical scene, and to have contributed to Sanches’ reputation as a leading Pyrrhonian sceptic (1988: 85). What is not at all convincing is that Descartes would have been apprised of Sanches’ treatise through a letter addressed by someone by the name of Huebner (supposedly an English doctor), to Marin Mersenne.
+	francisco-sanches
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Monisms are correlative with pluralisms and nihilisms. Where the monist for target \(t\) counted by unit \(u\) holds that \(t\) counted by \(u\) is one, her pluralist counterpart holds that \(t\) counted by \(u\) is many, and her nihilist counterpart holds that \(t\) counted by \(u\) is none. Among pluralists it is sometimes useful to single out the dualist: the dualist for \(t\) and \(u\) holds that \(t\) counted by \(u\) is two
+	monism
+	https://plato.stanford.edu/entries/self-obligations/
+	
+
+	We have three options. The first is to follow the argument where it leads – namely, to Singer’s nihilism, on which there is no such thing as a duty to self. The next option, which is the most popular among ethicists, is to defend unwaivable duties to oneself. Finally, some argue that self-release is not as incoherent as it sounds, and that we really do have waivable duties to, and maybe even rights against, ourselves.
+	self-obligations
+	https://plato.stanford.edu/entries/existentialism/
+	
+
+	Yet this is not the end of the story for Nietzsche, any more than it was for Kierkegaard. If the autonomous individual has so far signified nothing but herd mentality—if moral norms arose precisely to produce such conformists—the individual nevertheless has the potential to become something else; the sick animal is “pregnant with a future.” Nietzsche saw that in the nineteenth century the “highest values” had begun to “devalue themselves.” For instance, the Christian value of truth-telling, institutionalized in the form of science, had undermined the belief in God, disenchanting the world and excluding from it any pre-given moral meaning. In such a situation the individual is forced back upon himself. On the one hand, if he is weakly constituted he may fall victim to despair in the face of nihilism, the recognition that life has no intrinsic meaning. On the other hand, for a “strong” or creative individual nihilism presents a liberating opportunity to take responsibility for meaning, to exercise creativity by “transvaluing” her values, establishing a new “order of rank.” Through his prophet, Zarathustra, Nietzsche imagined such a person as the “overman” (Übermensch), the one who teaches “the meaning of the earth” and has no need of otherworldly supports for the values he embodies. The overman represents a form of life, a mode of existence, that is to blossom from the communalized, moralized “last man” of the nineteenth century. He has understood that nihilism is the ultimate meaning of the moral point of view, its life-denying essence, and he reconfigures the moral idea of autonomy so as to release the life-affirming potential within it.
+	existentialism
+	https://plato.stanford.edu/entries/supervenience-ethics/
+	
+
+	First, consider ethical nihilism, the thesis that there are no ethical properties. The ethical nihilist might seem to have an easy time explaining the metaphysical supervenience of the ethical: if there are no ethical properties, there are, trivially, no ethical differences. And if there are no ethical differences, there are no ethical differences without base differences.
+	supervenience-ethics
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Monism, along with pluralism and nihilism, must therefore be relativized to both a target and a unit. The underlying reason for this double relativity is that these are theses of numerical predication (‘…is one/many/none’), and all numerical predication is doubly relative in this way: for a target (what is to be counted), and by a unit (how it is to be counted). This is one way to understand the moral of Frege’s (1884: 59) insight:
+	monism
+	https://plato.stanford.edu/entries/monism/
+	
+
+	The existence monist and nihilist can of course just “bite the bullet” by accepting 3 but claiming overriding arguments otherwise. But this is a dialectically difficult situation for her: whatever support the premises of her arguments otherwise might have will almost certainly pale in comparison to the support that 3 provides for existence pluralism. Not for nothing are existence monism and nihilism widely dismissed as crazy views.[16]
+	monism
+	https://plato.stanford.edu/entries/yorck/
+	
+
+	The general thrust of these reflections and the language used are reminiscent of Nietzsche's descriptions of the “uncanniest of all guests,” nihilism. In fact, it is the usually so cautious Dilthey who, in one of his last letters to Yorck, remarks that the true but “horrible word about the age has been announced” by no one other than Nietzsche (CR, p. 238). There is no reason to believe that Yorck would have disagreed.
+	yorck
+	https://plato.stanford.edu/entries/truth-pluralist/
+	
+
+	Likewise, pluralism about truth must be distinguished from several neighbouring views, such as subjectivism, contextualism, relativism, or even nihilism about truth. For example, one can maintain some form of subjectivism about truth while remaining agnostic about how many ways of being true there are. Or again, one can consistently maintain that there is exactly one way of being true, which is always and everywhere dependent on context. Nor is it inconsistent to be both a pluralist and an absolutist or other anti-relativist about truth. For example, one might argue that each of the different ways of being true holds absolutely if it holds at all (Wright 1992). Alternatively, one might explicate a compatibilist view, in which there are at least two kinds of truth, absolute and relative truth (Joachim 1905), or deflationist and substantivist (Kölbel 2013). Such views would be, necessarily, pluralistic. Occasionally, pluralists have also been lumped together with various groups of so-called ‘nihilists’, ‘deniers’, and ‘cynics’, and even associated with an ‘anything goes’ approach to truth (Williams 2002). However, any version of pluralism is prima facie inconsistent with any view that denies truth properties, such as nihilism and certain forms of nominalism.
+	truth-pluralist
+	https://plato.stanford.edu/entries/monism/
+	
+
+	Here ‘\(C\)’ continues to denote the property of being a concrete object (as per the formulation of existence monism: §2), and ‘\(P\)’ the priority relation. This defines the predicate ‘\(B\)’ used in the formulations of priority monism, pluralism, and nihilism above. Object foundationalism may then be defined as the following thesis:
+	monism
+	https://plato.stanford.edu/entries/logic-classical/
+	
+
+	The other main option is to simply deny that there is a single logic that qualifies as the One True Logic. One instance of this is a kind of logical nihilism, a thesis that there is no correct logic. Another is a logical pluralism, the thesis that a variety of different logical all qualify as correct, or best, or even the true logic, at least in various contexts.
+	logic-classical
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	Just as everything else that has to do with Sanches, there is even uncertainty as to the date the Letter to Christopher Clavius was written. Raymond Delassus, Sanches’ disciple, and first biographer, dates the letter to around 1575, while J. Iriarte believes that the latter was written much later, in 1589, in which case it would place the writing of the letter at least eight years after the publication of Quo nihil scitur (1581). Given, however, that Clavius’ translation and commentary on Euclid’s Elements was published in Rome in 1574, it would seem that the former date of 1575, makes much more sense. It stands to reason that Sanches would have responded to Clavius’ commentary soon after its publication rather than fifteen years later, especially when so much of what is in the letter is implicitly related to Sanches’ epistemology in Quod nihil scitur. In that sense the Letter to Clavius constitutes a debate between those who like Clavius believed that the truths of mathematics were a priori and indubitable, and thinkers like Sanches who held an anti-Platonist, empiricist view of the world. A few quotes from Clavius’ Opera mathematica and from Sanches’s Letter help us to understand the debate. Clavius wrote:
+	francisco-sanches
+	https://plato.stanford.edu/entries/diderot/
+	
+
+	Diderot’s determinism is also his way of extending core empiricist tenets such as nihil est in intellectu quod non fuerit in sensu (there is nothing in the mind that was not first in our sense), which acquires a determinist dimension: “there is only one operation in man, sensing. This operation is … never free” (OH; DPV XXIV: 300; cf. PC; DPV XX: 85) and
+	diderot
+	https://plato.stanford.edu/entries/tsongkhapa/
+	
+
+	Tsongkhapa's choice of the opening line's of Nāgārjuna's work as a point of departure for his philosophy stems from his belief that he has gained a true insight into dependent origination (pratītya-samutpāda). This insight, he believes, resolves the paradox between his apparent nihilism and his insistence on the weight of authoritative statements and cognitions. Thus he says in his Great Exposition,
+	tsongkhapa
+	https://plato.stanford.edu/entries/buddha/
+	
+
+	This excursus into what the Buddha meant by karma may help us see how his middle path strategy could be used to reply to the objection to non-self from rebirth. That objection was that the reward and punishment generated by karma across lives could never be deserved in the absence of a transmigrating self. The middle path strategy generally involves locating and rejecting an assumption shared by a pair of extreme views. In this case the views will be (1) that the person in the later life deserves the fruit generated by the action in the earlier life, and (2) that this person does not deserve the fruit. One assumption shared by (1) and (2) is that persons deserve reward and punishment depending on the moral character of their actions, and one might deny this assumption. But that would be tantamount to moral nihilism, and a middle path is said to avoid nihilisms (such as annihilationism). A more promising alternative might be to deny that there are ultimately such things as persons that could bear moral properties like desert. This is what the Buddha seems to mean when he asserts that the earlier and the later person are neither the same nor different (S II.62; S II.76; S II.113). Since any two existing things must be either identical or distinct, to say of the two persons that they are neither is to say that strictly speaking they do not exist.
+	buddha
+	https://plato.stanford.edu/entries/monism/
+	
+
+	In reply, the existence monist could say that property instantiations metaphysically presuppose concrete objects as the instantiators of such properties.[27] That is, the existence monist should reply that existence nihilism is impossible, for positing properties without bearers. If so then at least one concrete object is required, by the argument that properties need bearers; and at most one concrete object is required, by the argument from exclusion discussed above.
+	monism
+	https://plato.stanford.edu/entries/logic-connexive/
+	
+
+	Note that if a logic implements the cancellation view of negation, it will also be paraconsistent because the ex contradictione quodlibet principle, (A ∧ ∼A) ⊢ B, will not be valid. (The idea of ex contradictione nihil sequitur is discussed in Wagner 1991.) According to the Routleys, a connection between the subtraction account of negation and Aristotle’s thesis AT′ then arises as follows (Routley and Routley 1985, p. 205):
+	logic-connexive
+	https://plato.stanford.edu/entries/kyoto-school/
+	
+
+	In his mature writings Nishitani explicitly employs the Mahāyāna term śūnyatā (even though he never disavows the term Nishida coined, “absolute nothingness”) in his attempt to think a way beyond both the exacerbated attachment to being and the reactive nihilism that together plague the modern world (see Ueda 2011a). Nishitani writes as follows: On the one hand, śūnyatā or emptiness can be termed “an absolute negativity, inasmuch as it is a standpoint that has negated and thereby transcended nihility, which was itself the transcendence-through-negation of all being.” In this sense, “emptiness can well be described as ‘outside’ of and absolutely ‘other’ than the standpoint shackled to being, provided we avoid the misconception that emptiness is some ‘thing’ distinct from being and subsisting ‘outside’ it.” On the other hand, then, emptiness is truly emptiness “only when it empties itself even of the standpoint that represents it as some ‘thing’ that is emptiness. … [True emptiness] is to be realized as something united to and self-identical with being” (NKC X, 109–10; Nishitani 1982, 97). Following in the wake of Nishida’s topological thinking of absolute nothingness (see subsection 3.3 below), Nishitani also thinks of śūnyatā as a “place” or “field” wherein beings can appear as they truly are in their proper basis or “home-ground” (moto).
+	kyoto-school
+	https://plato.stanford.edu/entries/monism/
+	
+
+	That said, one might expect the priority pluralist to challenge 14, for one of the following two reasons. First, the priority pluralist might (on considering gunk, and maintaining her thesis that the parts are prior to the whole) declare that nothing is basic in gunky worlds. Things get ever more basic without limit. But this would run counter to ontological foundationalism, and the widespread idea that being needs an ultimate ground (§3.1). This is no longer priority pluralism but priority nihilism, as least for gunky worlds.
+	monism
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	This argument is clearest when applied to an example. If nothing is morally wrong, as moral nihilists claim, then it is not morally wrong to torture babies just for fun. So, according to the general principle above, one must be able to rule out moral nihilism in order to be justified in believing that torturing babies just for fun is morally wrong. Moral skeptics conclude that this moral belief is not justified. More precisely:
+	skepticism-moral
+	https://plato.stanford.edu/entries/ordinary-objects/
+	
+
+	Since many of the arguments for eliminativism actually fall short of establishing that composition never occurs, it is also open to eliminativists to reject nihilism and accept certain classes of composites. Many eliminativists make an exception for persons and other organisms. Some, for instance, accept organicism, the thesis that some objects compose something just in case the activities of those objects constitute a life. In other words, organisms are the only composite objects.[4]
+	ordinary-objects
+	https://plato.stanford.edu/entries/tsongkhapa/
+	
+
+	That his project does not presuppose a privileged, soul-like, state of consciousness that surveys and categorizes phenomena is evident from his assertion that these two errors originate in a latent psychological tendency in philosophers: first, to hold on to vestiges of truth (reality) where there is in fact an absence of it, and second, to fall back on some version of truth (reality) in ordinary appearance after failing to avoid nihilism in a futile quest for meaning.
+	tsongkhapa
+	https://plato.stanford.edu/entries/epistemology-naturalized/
+	
+
+	The most notable norm of naturalized epistemology actually coincides with that of traditional epistemology. It is simply the watchword of empiricism: nihil in mente quod non prius in sensu. This is a prime specimen of naturalized epistemology, for it is a finding of natural science itself, however fallible, that our information about the world comes only through the impact of our sensory receptors. And still the point is normative, warning us against telepaths and soothsayers. (Quine 1992: 19)
+	epistemology-naturalized
+	https://plato.stanford.edu/entries/chinese-metaphysics/
+	
+
+	Much of Buddhist metaphysics involves negotiating a middle ground between reification and nihilism. The problem appears in relation to the self—it may be true that there is no self, but surely there is something which grounds or generates or is the illusion of self. One early school (Abhidharma) argued the self is a label for what is really an aggregate of momentary elements and factors, known as dharmas (fa 法). Apparent wholes like the self can be mereologically reduced to constituent factors, just as a chariot can be reduced to its parts. A more radical view extended the critique of the self to any entity that might be taken as independently real or self-defined, in Buddhist terms, anything that might have svabhāva, literally “self-being” or “self-nature” (in Chinese, zixing 自性). This denial of self-being follows from dependent co-arising, which claims that any event depends on and is bound up with others. Lacking an independent essence or ground, all phenomena are said to be empty, śūnyatā or kong 空. Emptiness is meant to be a middle ground between affirming or denying the existence of things, but such a middle ground is difficult to articulate, and the history of Buddhism can be seen as a dialect between those proposing some kind of reality (accused of reification) and those rejecting it (accused of nihilism).
+	chinese-metaphysics
+	https://plato.stanford.edu/entries/monism/
+	
+
+	To be a nihilist for \(t_1\) counted by \(u_1\) is to hold that concrete objects fall under no highest type. The bundle theorist who is an eliminativist about concrete objects is a nihilist of this sort (substance nihilism). She rejects the target: she thinks that there are no concrete objects to count.[1] One who accepts concrete objects but rejects the relevant notion of “highest” type would also be a nihilist for \(t_1\) counted by \(u_1\). She rejects the unit: she thinks that this is no way to count.
+	monism
+	https://plato.stanford.edu/entries/sufficient-reason/
+	
+
+	Axiom 7, to which Spinoza appeals in the explanation, is a variant of the “ex nihilo, nihil fit” (“from nothing, nothing comes”) principle, and stipulates that an existing thing and its perfections (or qualities) cannot have nothing or a non-existing thing as their cause. Interestingly, however, in another work from this early period of his philosophical writing, the Treatise on the Emendation of the Intellect, Spinoza allows for one unique item to be without a cause. In §70 of this treatise, Spinoza argues:
+	sufficient-reason
+	https://plato.stanford.edu/entries/hermann-lotze/
+	
+
+	In a word, fear of nihilism is also no justification. Indeed, at long last, the only rationale that can be offered for the panpsychist “wager” is purely aesthetic in nature: “nothing but the beauty of the living form is made to us more intelligible by this hypothesis” (Micro, I, p. 366). Indeed, in the end, we may only admit that our scientific work “neither wants nor needs panpsychism – rather, it is needed to satisfy the human spirit, to make the nature of soul comprehensible” (Skrbina, 2007, p. 128).
+	hermann-lotze
+	https://plato.stanford.edu/entries/life-meaning/
+	
+
+	The previous two sections addressed theoretical accounts of what would confer meaning on a human person’s life. Although these theories do not imply that some people’s lives are in fact meaningful, that has been the presumption of a very large majority of those who have advanced them. Much of the procedure has been to suppose that many lives have had meaning in them and then to consider in virtue of what they have or otherwise could. However, there are nihilist (or pessimist) perspectives that question this supposition. According to nihilism (pessimism), what would make a life meaningful in principle cannot obtain for any of us.
+	life-meaning
+	https://plato.stanford.edu/entries/scottus-eriugena/
+	
+
+	Immediately following on his abrupt announcement of the four divisions of nature, Eriugena proceeds to list “five ways of interpreting” (quinque modi interpretationis) the manner in which things may be said to be or not to be (Periphyseon, I.443c–446a). According to the first mode, things accessible to the senses and the intellect are said to be, whereas anything which, “through the excellence of its nature” (per excellentiam suae naturae), transcends our faculties are said not to be. According to this classification, God, because of his transcendence is said not to be. He is “nothingness through excellence” (nihil per excellentiam).
+	scottus-eriugena
+	https://plato.stanford.edu/entries/lyotard/
+	
+
+	In any event, as Lyotard puts it, there is “not good or bad intensities, then, but intensity or its decompression” (Libidinal, 42). But this leaves, then, open a question that haunts other similar projects of the time: if each intensity is not to be thought outside of itself in terms of some representation or measure, then what ethics is available when all intensities are only to be thought in terms of their inherent efficacy? From what place, then, can one deem one set of intensities or libido economy “bad” over and against another? If all can and, it seems in Lyotard’s text, should come undone, then are we merely positing a nihilism?
+	lyotard
+	https://plato.stanford.edu/entries/natphil-ren/
+	
+
+	Most Aristotelian interpreters believed matter to be prope nihil, pure potentiality, while others believed that it possessed a certain degree of reality and actuality. The discussion on the nature of matter was further complicated by the suggestions offered by other traditions of thought, Platonism above all. According to Marsilio Ficino (1433–1499) in his Platonic Theology, prime matter had an existence which is not dependent upon form. Closely following the Timaeus, he claimed that matter can therefore be intelligible, though in a weaker way. Giordano Bruno (1548–1600) proposed an even more radical departure from traditional views of the passivity of matter. In the De la causa, principio et uno, Bruno affirms that matter is an active principle, not passive. Matter contains within itself every form, both corporeal and incorporeal, and can be described as a kind of infinite life. Bruno’s conception of matter also served as the basis for his cosmological views (see below), and in particular for his claim that the universe is infinite. A few years later, Tommaso Campanella returned to a more traditional position. In the Del senso delle cose e della magia (printed in 1620) he argued for the synonymity between matter and body, and against the identification of matter with the Aristotelian prope nihil, though he did emphasize its passivity: matter receives forms from external agents and does not produce them from within itself.
+	natphil-ren
+	https://plato.stanford.edu/entries/object/
+	
+
+	Anyone who denies the Umbrella View and who has an answer to the SCQ can consider that as a partial answer to the Extension Question. What objects are there? Contact says that there are the xs, and for any xs that are in contact, there’s another object (the one that’s composed of them). Life says that there are the xs, and for any xs that are caught up in a life, there’s another object (the one that’s composed of them). Mereological Nihilism says that there are just the xs, and no other objects. Mereological Universalism says that there are the xs, for any xs at all (no matter how they are arranged), there’s another object (the one that’s composed of them). And so on for other answers.
+	object
+	https://plato.stanford.edu/entries/truthmakers/
+	
+
+	The principle lies at one end of the spectrum of positions we can potentially occupy. At the other end, we find truth-maker nihilism, the idea that no truth needs to be made true because (roughly) the very idea of a truth-maker is a corrupt one: there is no such role as making something true for anything to perform. Truth-maker optimalism is the intermediate position that only some truths stand in need of truth-makers: not so few that truth fails to be anchored in reality but not so many that we strain credulity about the kinds of things there are.
+	truthmakers
+	https://plato.stanford.edu/entries/skepticism-moral/
+	
+
+	To skeptics, this mutual support might seem desirable. Anti-skeptics, however, might object that this mutual support makes the arguments jointly circular. In the end, the force of the arguments depends on the defensibility of non-skeptical views in moral epistemology. If moral intuitionism, coherentism, naturalism, or normativism works to justify some moral beliefs and/or to rule out moral nihilism, then this will undermine the crucial premises in the arguments for moral skepticism. But that remains to be seen.
+	skepticism-moral
+	https://plato.stanford.edu/entries/autrecourt/
+	
+
+	Five other articles that turn up in Autreourt’s condemnation concern the complexe significabile, or what is signified by an entire proposition. According to adherents of the doctrine such as Adam Wodeham and Gregory of Rimini, the object of knowledge is not the proposition, or the things (res) referred to in the external world, but “that which is signified” by the proposition (complexe significabile). One of the problems raised by this theory concerned the ontological status of the complexe significabile: Is it something (aliquid) or nothing (nihil)? Echoes of this and other debates can be found in these articles.
+	autrecourt
+	https://plato.stanford.edu/entries/nietzsche-moral-political/
+	
+
+	Millian hedonism holds that only happiness or pleasure is intrinsically desirable or valuable (‘Prescriptive Hedonism’). Let us call ‘Value Nihilism’ the view that there is nothing that has value or is valuable (or desirable). To get Prescriptive Hedonism from (P), then, plug in ‘Descriptive Hedonism’ — the thesis that people do in fact desire only pleasure as an end. If (P) is valid, Descriptive Hedonism true, and Value Nihilism false, then the truth of Prescriptive Hedonism follows. ((P), of course, is not valid, a point to which we will return.)
+	nietzsche-moral-political
+	https://plato.stanford.edu/entries/tsongkhapa/
+	
+
+	I have surveyed Tsongkhapa's early work on the ālaya-vijñāna (Tilleman's “storehouse consciousness”) above. For Tsongkhapa, until the correct view is understood, it is necessary to assert the ālaya-vijñāna in order to save cause and effect, and avoid falling into nihilism. When the correct view is obtained, the ālaya-vijñāna stands invalidated (Tillemans's second point). For Tsongkhapa, it is only possible to understand cause and effect (in particular, as experienced in the immediate moment by an embodied person), by correctly understanding that dependent origination precludes any essential existence whatsoever.
+	tsongkhapa
+	https://plato.stanford.edu/entries/tsongkhapa/
+	
+
+	Tsongkhapa does not accept svātantra (“autonomous”) reasoning (the fourth point). He asserts that it is enough, when proving that any given subject is empty of intrinsic existence, to lead the interlocutor, through reasoning, to the unwelcome consequences (prasaṅga) in their own untenable position; it is not necessary to demonstrate the thesis based on reasoning that presupposes any sort of intrinsic (=autonomous) existence. This gives Tsongkhapa's philosophy its name *Prāsaṅgika-madhyamaka, i.e., a philosophy of a middle way (between nihilism and eternalism) arrived at through demonstrating the unwelcome consequences (in any given position that presupposes intrinsic existence).
+	tsongkhapa
+	https://plato.stanford.edu/entries/existentialism/
+	
+
+	Sartre (1943 [1992, 70]) argues that anxiety provides a lucid experience of that freedom which, though often concealed, characterizes human existence as such. For him, freedom is the dislocation of consciousness from its object, the fundamental “nihilation” or negation by means of which consciousness can grasp its object without losing itself in it: to be conscious of something is to be conscious of not being it, a “not” that arises in the very structure of consciousness as being for-itself. Because “nothingness” (or nihilation) is just what consciousness is, there can be no objects in consciousness, but only objects for consciousness.[19] This means that consciousness is radically free, since its structure precludes that it either contain or be acted on by things. For instance, because it is not thing-like, consciousness is free with regard to its own prior states. Motives, instincts, psychic forces, and the like cannot be understood as inhabitants of consciousness that might infect freedom from within, inducing one to act in ways for which one is not responsible; rather, they can exist only for consciousness as matters of choice. I must either reject their claims or avow them. For Sartre, the ontological freedom of existence entails that determinism is an excuse before it is a theory: though through its structure of nihilation consciousness escapes that which would define it—including its own past choices and behavior—there are times when I may wish to deny my freedom. Thus I may attempt to constitute these aspects of my being as objective “forces” which hold sway over me in the manner of relations between things. This is to adopt the third-person stance in which what is originally structured in terms of freedom appears as a causal property of myself. I can try to look upon myself as the Other does, but as an excuse this flight from freedom is shown to fail, according to Sartre, in the experience of anguish.
+	existentialism
+	https://plato.stanford.edu/entries/francisco-sanches/
+	
+
+	Sanches wrote treatises on medicine and philosophy, and of his philosophical works, only two were published in his lifetime, Quod nihil scitur (1581; That Nothing is Known) and Carmen de cometa anni M.D.LXXVII (1578; Poem of the Comet of 1577). The other philosophical writings were published by his sons in 1636, and they included De longitudine et brevitate vitae, liber; In liber Aristotelis physiognomicon commentarius; and De diviniatone per somnum, ad Aristotelem. All of which can be found in the various editions of his philosophical oeuvre—see the discussion at the beginning of the Bibliography.
+	francisco-sanches
+	https://plato.stanford.edu/entries/lefevre-etaples/
+	
+
+	In 1502, Bruno Amerbach informed Johannes Amerbach in Basel that he was attending the “cursus Fabri”. He assured his worried father, who preferred him to study with the Scotists, that the bare text of the Fabrists, “without commentary” (nihil comentarii), would profit him in examinations (Hartmann 1942: 146; Renaudet 1953: 404–406). Among Lefèvre’s students, his manuals with their epitomes, paraphrases, and short descriptive notes defined philosophical study at the Collège du Cardinal Lemoine, and he began to be treated as an exemplar of method.
+	lefevre-etaples
+	https://plato.stanford.edu/entries/normativity-metaethics/
+	
+
+	Mackie famously argued for a form of nihilism about morality – or, in contemporary terms, “moral error theory” – in his 1977 book Ethics: Inventing Right and Wrong. Mackie thought that there are no moral facts – or, as it will be convenient to talk about things here, that all moral claims are false. Mackie was not the first to think this, or something similar – see Olson (2014: chs. 2–4) for some of the pre-Mackie history of the view. We focus on Mackie’s argument just because it has informed so much of the last several decades of thinking about moral (and normative) error theory.
+	normativity-metaethics
+	________________
