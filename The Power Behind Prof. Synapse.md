@@ -1,9 +1,9 @@
 ---
 date: 2023-12-10 11:46:42
-created: 2023-11-06 05:24:13
-categories:
-- Prompts / AI Convos / HARPA
-- Prompts / Prompt Tools / PPM
+Date: 2023-11-06 05:24:13
+Folders:
+  - Prompts / AI Convos / HARPA
+  - Prompts / Prompt Tools / PPM
 ---
 
 # The Power Behind Prof. Synapse

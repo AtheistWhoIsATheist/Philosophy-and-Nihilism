@@ -1,8 +1,8 @@
 ---
 date: 2024-03-27 12:50:39
-created: 2024-03-27 12:50:39
-categories:
-- Randomness
+Date: 2024-03-27 12:50:39
+Folders:
+  - Randomness
 ---
 
 Thanatology

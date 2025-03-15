@@ -1,8 +1,8 @@
 ---
 date: 2024-05-12 01:54:23
-created: 2024-05-11 11:30:32
-categories:
-- Randomness
+Date: 2024-05-11 11:30:32
+Folders:
+  - Randomness
 ---
 
 ## The Annotated Transformer
@@ -22,45 +22,45 @@ The Transformer has been on a lot of people’s minds over the last ~~year~~ fiv
 
 ### Table of Contents
 
-- [Prelims](#prelims)
-- [Background](#background)
-- [Part 1: Model Architecture](#part-1-model-architecture)
-- [Model Architecture](#model-architecture)
-    - [Encoder and Decoder Stacks](#encoder-and-decoder-stacks)
-    - [Position-wise Feed-Forward Networks](#position-wise-feed-forward-networks)
-    - [Embeddings and Softmax](#embeddings-and-softmax)
-    - [Positional Encoding](#positional-encoding)
-    - [Full Model](#full-model)
-    - [Inference:](#inference)
-- [Part 2: Model Training](#part-2-model-training)
-- [Training](#training)
-    - [Batches and Masking](#batches-and-masking)
-    - [Training Loop](#training-loop)
-    - [Training Data and Batching](#training-data-and-batching)
-    - [Hardware and Schedule](#hardware-and-schedule)
-    - [Optimizer](#optimizer)
-    - [Regularization](#regularization)
-- [A First Example](#a-first-example)
-    - [Synthetic Data](#synthetic-data)
-    - [Loss Computation](#loss-computation)
-    - [Greedy Decoding](#greedy-decoding)
-- [Part 3: A Real World Example](#part-3-a-real-world-example)
-    - [Data Loading](#data-loading)
-    - [Iterators](#iterators)
-    - [Training the System](#training-the-system)
-- [Additional Components: BPE, Search, Averaging](#additional-components-bpe-search-averaging)
-- [Results](#results)
-    - [Attention Visualization](#attention-visualization)
-    - [Encoder Self Attention](#encoder-self-attention)
-    - [Decoder Self Attention](#decoder-self-attention)
-    - [Decoder Src Attention](#decoder-src-attention)
-- [Conclusion](#conclusion)
+- [Prelims](<#prelims>)
+- [Background](<#background>)
+- [Part 1: Model Architecture](<#part-1-model-architecture>)
+- [Model Architecture](<#model-architecture>)
+    - [Encoder and Decoder Stacks](<#encoder-and-decoder-stacks>)
+    - [Position-wise Feed-Forward Networks](<#position-wise-feed-forward-networks>)
+    - [Embeddings and Softmax](<#embeddings-and-softmax>)
+    - [Positional Encoding](<#positional-encoding>)
+    - [Full Model](<#full-model>)
+    - [Inference:](<#inference>)
+- [Part 2: Model Training](<#part-2-model-training>)
+- [Training](<#training>)
+    - [Batches and Masking](<#batches-and-masking>)
+    - [Training Loop](<#training-loop>)
+    - [Training Data and Batching](<#training-data-and-batching>)
+    - [Hardware and Schedule](<#hardware-and-schedule>)
+    - [Optimizer](<#optimizer>)
+    - [Regularization](<#regularization>)
+- [A First Example](<#a-first-example>)
+    - [Synthetic Data](<#synthetic-data>)
+    - [Loss Computation](<#loss-computation>)
+    - [Greedy Decoding](<#greedy-decoding>)
+- [Part 3: A Real World Example](<#part-3-a-real-world-example>)
+    - [Data Loading](<#data-loading>)
+    - [Iterators](<#iterators>)
+    - [Training the System](<#training-the-system>)
+- [Additional Components: BPE, Search, Averaging](<#additional-components-bpe-search-averaging>)
+- [Results](<#results>)
+    - [Attention Visualization](<#attention-visualization>)
+    - [Encoder Self Attention](<#encoder-self-attention>)
+    - [Decoder Self Attention](<#decoder-self-attention>)
+    - [Decoder Src Attention](<#decoder-src-attention>)
+- [Conclusion](<#conclusion>)
 
 ## Prelims
 
   
 
-[Skip](#background)
+[Skip](<#background>)
 
   
 
