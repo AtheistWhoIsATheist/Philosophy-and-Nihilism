@@ -4,7 +4,7 @@ created: 2023-12-17 10:04:45
 categories:
 - NT Research / NT Notes / Notes on Mysticism
 - NT Research / NT Notes / Notes on Mysticism / SP Mystical
-- Prompts / Best
+- Prompts / Best-SuperPrompts
 ---
 
 # Super Prompt Convo for 'Mystical'
