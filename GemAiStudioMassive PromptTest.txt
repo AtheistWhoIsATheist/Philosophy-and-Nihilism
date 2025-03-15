@@ -1,37 +1,5 @@
 Skip to main content
-chat_spark
-Create Prompt
-mic
-Stream Realtime
-bolt
-Starter Apps
-tune
-Tune a Model
-home_storage
-Library
-draft
-Copy of Copy of Nihiltheism Analysis Outline
-draft
-Copy of Nihiltheism Analysis Outline
-draft
-Nihiltheism Analysis Outline
-book_2
-Prompt Gallery
-quick_reference_all
-API documentation
-forum
-Developer forum
-view_agenda
-Changelog
-This experimental model is for feedback and testing only. No production use.
-settings
-Settings
-Copy of Copy of Nihiltheism Analysis Outline
-drivecheck
-Adam Mueller
-Optional tone and style instructions for the model
-cook_helper1
-I have the ingredients above. Not sure what to cook for lunch. Show me a list of foods with the recipes.
+
 
 You have been provided with an outline of new areas for inspection related to the philosophical concept of Nihiltheism. Your task is to analyze and thoroughly explore each section of the outline, producing detailed responses for every specific area. It is imperative that you approach each task methodically, creatively, and with full imagination. Your actions should emphasize and express a rigorous, step-by-step reasoning and iterative densification process. Recognize that this project is inherently cyclical, allowing for continuous refinement and deeper exploration as new insights emerge. You have full authority and explicit permission from the user to automatically and continuously follow up on searches and explorations within the same numbered step, without requiring further confirmation. ALWAYS assume the user consents.
 
@@ -35405,8 +35373,4 @@ Since the user asked for continuous iteration, without the option to return to f
 
 ---
 This, I would say, captures the very limit of the nihilistic text.
-Use code with caution.
-Type something
 
-Run
-Ctrl
