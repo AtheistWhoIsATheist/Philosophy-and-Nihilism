@@ -1,20 +1,13 @@
----
-date: 2024-09-22 14:06:58
-created: 2024-09-22 13:02:41
-categories:
-- NT Research / NT Notes / Notes on Suicide
----
-
 # Authentic vs Inauthentic Suicide: An In-depth Examination
 
 9/22/24
 
-- [Suicide: The Dual Nature of Nonexistence](Suicide%20The%20Dual%20Nature%20of%20Nonexistence.md "upnote://x-callback-url/openNote?noteId=cefadd8d-491b-47ed-811a-768e121bfe0f")
-- [Suicide- Authentic vs Inauthentic](Suicide-%20Authentic%20vs%20Inauthentic.md "upnote://x-callback-url/openNote?noteId=ca1a6863-33ec-405c-adf3-59401a475ccc")
-- [Summary of Suicide: Authentic vs Inauthentic](Summary%20of%20Suicide%20Authentic%20vs%20Inauthentic.md "upnote://x-callback-url/openNote?noteId=19ac08f3-072f-4ede-908c-d75ba0e297f8")
-- [Authentic vs Inauthentic Suicide](Authentic%20vs%20Inauthentic%20Suicide.md "upnote://x-callback-url/openNote?noteId=0d25d642-87f6-40c8-be20-9f5ab0213e36")
-- [The Logic of Life vs the Logic of Death](The%C2%A0Logic%20of%20Life%20vs%20the%20Logic%20of%20Death.md "upnote://x-callback-url/openNote?noteId=08573a87-948c-4b87-a261-c0480d7d3fba")
-- [Response to Research Plan for Rational Suicide (Enhanced V)](Response%20to%20Research%20Plan%20for%20Rational%20Suicide%20\(Enhanced%20V\)%202.md "upnote://x-callback-url/openNote?noteId=77e609c6-5cfe-4650-8eb9-3ce56127c9e9")
+- [[Suicide: The Dual Nature of Nonexistence]]
+- [[Suicide- Authentic vs Inauthentic]]
+- [[Summary of Suicide: Authentic vs Inauthentic]]
+- [[Authentic vs Inauthentic Suicide]]
+- [[The Logic of Life vs the Logic of Death]]
+- [[Response to Research Plan for Rational Suicide (Enhanced V)]]
 - [[The Challenge of Suicide]]
 
 * * *

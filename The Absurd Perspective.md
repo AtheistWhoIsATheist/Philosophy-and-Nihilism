@@ -1,15 +1,20 @@
 ---
-date: 2024-06-07 09:14:50
-Date: 2024-04-28 06:08:04
-Folders:
-  - NT Research / NT Notes / Notes of Suicide
+date: 2024-10-06 03:45:24
+created: 2024-04-28 06:08:04
+categories:
+- NT Research / NT Notes / Notes on Suicide
+- NT Research / NT Structure
 ---
 
 # _The Absurd Perspective_
 
 Sunday, April 28, 2024 #notebooklm, #suicide, #nonexistence, #definition
 
-  
+[[Nihiltheism and Faith]]
+
+[[Divided-Self Explored]]
+
+[[Notes Connecting Insights from the Experience of Nihilism]]
 
 * * *
 
@@ -19,5 +24,5 @@ The **_"Absurd Perspective"_** is the idea that Nihilism recognizes the absence 
 
 - **_All human actions are driven by value judgments, but without inherent moral values, no non-arbitrary human action can be taken._** 
 - With all possibilities deemed 'equivalent,' there is no right or wrong, up or down, and all possibilities collapse into meaninglessness. 
-- Yet, humans continue to act in the world. [The Absurdity of Eternal Optimism:](The Absurdity of Eternal Optimism.md)
+- Yet, humans continue to act in the world. [[The Absurdity of Eternal Optimism:]]
 - This surrender to the Absurd Perspective is one possible response to the experience of Nihilism, which includes madness, suicide, and experiences of the Other.
