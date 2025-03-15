@@ -15,7 +15,7 @@ Todays work - #314sum, #nit
 
 * * *
 
-  
+<br>
 
 Saved Response
 
@@ -187,7 +187,7 @@ Contemporary philosopher John D. Caputo's "weak theology" exemplifies this integ
 
 The integration of philosophy and theology in the study of nihilism enables a nuanced approach that harmonizes rational critique with spiritual exploration, providing a richer understanding of existential themes.
 
-  
+<br>
 
 ### Comparative Religion Studies
 
