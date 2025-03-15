@@ -7,7 +7,7 @@ categories:
 
 Anthropic Prompt Improver
 
-- Created from [Prompt improver from Perplexity Discord](Prompt%20improver%20from%20Perplexity%20Discord.md)
+- Created from [Prompt improver from Perplexity Discord](Ai%20Convos/Perplexity/Prompt%20improver%20from%20Perplexity%20Discord.md)
 
 2024/10/06
 
@@ -61,7 +61,3 @@ In an appendix, include the full list of search queries, grouped by theme. Ensur
 Now, using all of these guidelines, significantly improve and enhance the given prompt. Your output should be a thoughtfully optimized prompt that serves as a springboard for the AI to deliver astute, emotionally aware responses backed by meticulous research. The improved prompt should equip the AI to offer perceptive, thoroughly substantiated insights that leave the human feeling understood and enlightened.
 
 Present your improved prompt within <improved\_prompt> tags. After the improved prompt, provide a brief explanation of the key enhancements you made and how they will lead to better AI performance, enclosed in tags.
-
-<br>
-
-<br>

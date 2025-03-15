@@ -9,7 +9,7 @@ categories:
 
 **Jun 8, 20 #ren, #rensum, #Nihiltheism, #fabric, #perplexity**
 
-[Fabric Patterns from GitHub](Fabric%20Patterns%20from%20GitHub.md "upnote://x-callback-url/openNote?noteId=79237468-081F-408A-A5A5-7E8545E02BF1") (extract wisdom prompt)
+[[Fabric Patterns from GitHub]] (extract wisdom prompt)
 
 * * *
 

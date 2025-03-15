@@ -1,16 +1,16 @@
 ---
 date: 2024-10-23 12:22:54
-Date: 2024-10-12 09:25:44
-Folders:
-  - NT Research / Arguments & Counterarguments
-  - Prompts / AI Convos / Perplexity
+created: 2024-10-12 09:25:44
+categories:
+- NT Research / Arguments & Counterarguments
+- Prompts / AI Convos / Perplexity
 ---
 
 # Anthropic Argument Analysis Prompt Used
 
-- From [Argument Exploration Prompt](Argument Exploration Prompt.md)
-- [Perplexity Nihiltheism Argument Builder](Perplexity Nihiltheism Argument Builder.md)
-- [Perplexity Nihiltheism Argument Builder: Response](Perplexity Nihiltheism Argument Builder Response.md)
+- From [[Argument Exploration Prompt]]
+- [Perplexity Nihiltheism Argument Builder](Perplexity%20Nihiltheism%20Argument%20Builder.md)
+- [Perplexity Nihiltheism Argument Builder: Response](Ai%20Convos/Perplexity/Perplexity%20Nihiltheism%20Argument%20Builder%20Response.md)
 
 2024/10/12
 

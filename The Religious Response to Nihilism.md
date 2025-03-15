@@ -2,8 +2,9 @@
 date: 2024-09-21 07:30:27
 created: 2024-04-24 09:18:14
 categories:
-- NT Research
-- Prompts / AI Convos / HARPA
+  - NT Research
+  - Prompts / AI Convos / HARPA
+path: Nihilism Work
 ---
 
 # The Religious Response to Nihilism
@@ -12,9 +13,9 @@ Saturday, April 27, 2024 
 
 #harpa
 
-[Analyzing Religious Responses to Nihilism](Analyzing%20Religious%20Responses%20to%20Nihilism.md "upnote://x-callback-url/openNote?noteId=1719fcbb-88c5-42c0-b2ec-c647596d625c")
+[[Analyzing Religious Responses to Nihilism]]
 
-[The Comprehensive Exploration and Iterative Refinement of Religious Responses to Nihilism](The%20Comprehensive%20Exploration%20and%20Iterative%20Refinement%20of%20Religious%20Responses%20to%20Nihilism.md "upnote://x-callback-url/openNote?noteId=22a59e91-72d7-4df7-b308-362bf0b756b0")
+[The Comprehensive Exploration and Iterative Refinement of Religious Responses to Nihilism](Ai%20Convos/HARPA/The%20Comprehensive%20Exploration%20and%20Iterative%20Refinement%20of%20Religious%20Responses%20to%20Nihilism.md "upnote://x-callback-url/openNote?noteId=22a59e91-72d7-4df7-b308-362bf0b756b0")
 
   
 
