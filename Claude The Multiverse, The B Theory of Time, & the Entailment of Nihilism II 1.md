@@ -1,6 +1,14 @@
+---
+date: 2024-08-29 14:20:23
+created: 2023-07-23 09:31:40
+categories:
+- NT Research / Arguments & Counterarguments / Multiverse & B-Theory
+- Prompts / AI Convos
+---
+
 # Claude: The Multiverse, The B Theory of Time, & the Entailment of Nihilism II
 
-### The Analysis of [Claude: The Multiverse, B-Theory of Time, & Nihilism: A Conversation with Claude](Claude The Multiverse, B-Theory of Time, & Nihilism A Conversation with Claude.md)
+### The Analysis of [[Claude: The Multiverse, B-Theory of Time, & Nihilism: A Conversation with Claude]]
 
 - Analysis: This note is an analysis of the analysis of the conversation had concerning Nihilistic implications of the multiverse and the B-Theory of time that I had with Claude:
 
@@ -12,9 +20,9 @@ Dec 17, 2023
 
 \[\[
 
-[NotebookLM on the Multiverse and B Theory of Time](NotebookLM on the Multiverse and B Theory of Time.md)
+[[NT Research/NotebookLM/NotebookLM on the Multiverse and B Theory of Time]]
 
-[Nihilism from B-Theory of time and Multiverse](Nihilism from B-Theory of time and Multiverse.md)
+[[Nihilism from B-Theory of time and Multiverse]]
 
   
 

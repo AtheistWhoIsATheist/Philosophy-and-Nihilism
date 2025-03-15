@@ -1,16 +1,16 @@
 ---
 date: 2024-10-23 12:22:54
-created: 2024-10-12 09:25:44
-categories:
-- NT Research / Arguments & Counterarguments
-- Prompts / AI Convos / Perplexity
+Date: 2024-10-12 09:25:44
+Folders:
+  - NT Research / Arguments & Counterarguments
+  - Prompts / AI Convos / Perplexity
 ---
 
 # Anthropic Argument Analysis Prompt Used
 
-- From [Argument Exploration Prompt](Argument%20Exploration%20Prompt.md)
-- [Perplexity Nihiltheism Argument Builder](Perplexity%20Nihiltheism%20Argument%20Builder.md)
-- [Perplexity Nihiltheism Argument Builder: Response](Perplexity%20Nihiltheism%20Argument%20Builder%20Response.md)
+- From [Argument Exploration Prompt](Argument Exploration Prompt.md)
+- [Perplexity Nihiltheism Argument Builder](Perplexity Nihiltheism Argument Builder.md)
+- [Perplexity Nihiltheism Argument Builder: Response](Perplexity Nihiltheism Argument Builder Response.md)
 
 2024/10/12
 
@@ -233,11 +233,11 @@ Pinkett aims for a blend of techniques to decode existential questions, merging 
 
 I'm exploring how Nihiltheism blends nihilism and theism, enriching epistemology, metaphysics, existential philosophy, philosophy of religion, ethics, and philosophy of mind.
 
-<br>
+  
 
 ## (Me: End of thinking, beginning of articulated response)
 
-<br>
+  
 
 <nihiltheism\_scholarly\_paper>
 

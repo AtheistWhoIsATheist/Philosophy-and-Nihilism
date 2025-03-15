@@ -1,17 +1,18 @@
 ---
 date: 2024-03-25 12:25:28
-created: 2024-03-25 12:15:20
-categories:
-- NT Research / Arguments & Counterarguments / Ai & Nihilism
+Date: 2024-03-25 12:15:20
+Folders:
+  - NT Research / NT Arguments / Ai & Nihilism
 ---
-
-# **AGI and Nihilism**
+# AGI and Nihilism
 
 **3/25/24**
 
 **#ainihilism, #mem, #ntresearch, #Nihilism**
 
-* * *
+```table-of-contents
+```
+---
 
   
 

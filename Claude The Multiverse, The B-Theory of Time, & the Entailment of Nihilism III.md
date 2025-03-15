@@ -1,23 +1,14 @@
----
-date: 2024-08-29 14:27:09
-created: 2024-05-20 03:15:34
-categories:
-- NT Research / Arguments & Counterarguments
-- NT Research / Arguments & Counterarguments / Multiverse & B-Theory
-- Prompts / AI Convos / Claude
----
-
 # Claude: The Multiverse, The B-Theory of Time, & the Entailment of Nihilism III
 
 5/20/24
 
 Monday, May 20, 2024 #claude, #time, #multiverse, #argument
 
-[Claude: The Multiverse, B-Theory of Time, & Nihilism: A Conversation with Claude](Claude%20The%20Multiverse%2C%20B-Theory%20of%20Time%2C%20%26%20Nihilism%20A%20Conversation%20with%20Claude.md)
+[Claude: The Multiverse, B-Theory of Time, & Nihilism: A Conversation with Claude](Claude The Multiverse, B-Theory of Time, & Nihilism A Conversation with Claude.md)
 
-[Claude: The Multiverse, The B Theory of Time, & the Entailment of Nihilism II](Claude%20The%20Multiverse%2C%20The%20B%20Theory%20of%20Time%2C%20%26%20the%20Entailment%20of%20Nihilism%20II.md "upnote://x-callback-url/openNote?noteId=70a45b23-70ba-4383-a332-529b37dbe4e6")
+[Claude: The Multiverse, The B Theory of Time, & the Entailment of Nihilism II](Claude The Multiverse, The B Theory of Time, & the Entailment of Nihilism II.md "upnote://x-callback-url/openNote?noteId=70a45b23-70ba-4383-a332-529b37dbe4e6")
 
-[The Multiverse, The B-Theory of Time, & the Entailment of Nihilism: Argument Analysis by ChatGPT](The%20Multiverse%2C%20The%20B-Theory%20of%20Time%2C%20%26%20the%20Entailment%20of%20Nihilism%20Argument%20Analysis%20by%20ChatGPT.md "upnote://x-callback-url/openNote?noteId=BD22E095-5EDA-4956-B025-93CAAF9C985F")
+[The Multiverse, The B-Theory of Time, & the Entailment of Nihilism: Argument Analysis by ChatGPT](The Multiverse, The B-Theory of Time, & the Entailment of Nihilism Argument Analysis by ChatGPT.md "upnote://x-callback-url/openNote?noteId=BD22E095-5EDA-4956-B025-93CAAF9C985F")
 
   
 

@@ -1,11 +1,3 @@
----
-date: 2024-08-11 23:00:00
-created: 2023-10-06 03:01:47
-categories:
-- NT Research / Arguments & Counterarguments
-- NT Research / Arguments & Counterarguments / Multiverse & B-Theory
----
-
 # Nihilism from B-Theory of time and Multiverse 
 
 10/6/23 #multiverse, #time
