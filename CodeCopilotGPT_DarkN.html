@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Complete Note App</title>
+  <style>
+    /* Same styling as before */
+    body {
+      font-family: "Palatino Linotype", "PT Serif", Palatino, serif;
+      background-color: #1a1a1a;
+      color: #e0e0e0;
+      margin: 0;
+      padding: 15px;
+      height: 100vh;
+      box-sizing: border-box;
+    }
+    .container {
+      display: flex;
+      gap: 20px;
+      height: 100%;
+    }
+    .saved-notes {
+      width: 250px;
+      min-width: 250px;
+      background: linear-gradient(to bottom, #1a1a1a,#1f1f1f,#222222);
+      padding: 10px;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.1), 0 1px 2px rgba(255,255,255,0.05);
+    }
+    .main-content {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+      overflow-y: auto; 
+    }
+    .editor-preview {
+      display: flex;
+      gap: 20px;
+      flex-grow: 1;
+      overflow: hidden;
+      min-height: 0;
+    }
+    .editor {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      transition: flex 0.3s ease;
+    }
+    input[type="text"], textarea {
+      width: 100%;
+      background: linear-gradient(to bottom, #1c1c1c, #1f1f1f, #242424);
+      color: #e0e0e0;
+      border: 1px solid #333;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+      font-family: "Palatino Linotype", "Book Antiqua", "Palatino", "serif"; 
+      font-size: 20px;
+    }
+    textarea {
+      flex-grow: 1;
+      resize: none;
+    }
+    #preview {
+      display: none; /* Initially hidden */
+      flex: 1;
+      background-color: #242424;
+      padding: 5px;
+      border-radius: 5px;
+      border-left: 1px solid #3a3a3a;
+      overflow-y: auto;
+      transition: flex 0.3s ease;
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.1), 0 1px 2px rgba(255,255,255,0.05);
+      font-size: 20px;
+      line-height: 1.25;
+      max-height: 758px;
+      min-height: 100px;
+    }
+    button {
+      background-color: #2a2a2a;
+      color: #e0e0e0;
+      border: none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-right: 10px;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #5a5a5a;
+    }
+    #charCount {
+      margin-bottom: 10px;
+    }
+    .buttons {
+      display: flex;
+      justify-content: flex-start;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="saved-notes">
+      <h2>Dark Notes</h2>
+      <input type="text" id="searchInput" placeholder="Search notes...">
+      <div id="savedNotesList"></div>
+    </div>
+    <div class="main-content">
+      <div class="editor-preview">
+        <div class="editor">
+          <input type="text" id="titleInput" placeholder="Note Title">
+          <input type="text" id="tagInput" placeholder="Tags (comma-separated)">
+          <textarea id="noteInput" placeholder="Enter your note here..."></textarea>
+          <div id="charCount">0 characters, 0 words</div>
+        </div>
+        <div id="preview"></div>
+      </div>
+      <div class="buttons">
+        <button id="saveButton">Save Note</button>
+        <button id="clearButton">Clear</button>
+        <button id="deleteButton">Delete Note</button>
+        <button id="togglePreviewButton">Toggle Preview</button>
+        <button id="toggleMarkmapButton">Toggle Markmap</button>
+        <button id="exportButton">Export Notes</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/markmap-view"></script>
+  <script>
+    const noteInput = document.getElementById('noteInput');
+    const titleInput = document.getElementById('titleInput');
+    const tagInput = document.getElementById('tagInput');
+    const saveButton = document.getElementById('saveButton');
+    const clearButton = document.getElementById('clearButton');
+    const deleteButton = document.getElementById('deleteButton');
+    const charCount = document.getElementById('charCount');
+    const savedNotesList = document.getElementById('savedNotesList');
+    const searchInput = document.getElementById('searchInput');
+    const preview = document.getElementById('preview');
+    const togglePreviewButton = document.getElementById('togglePreviewButton');
+    const toggleMarkmapButton = document.getElementById('toggleMarkmapButton');
+    const exportButton = document.getElementById('exportButton');
+
+    let notes = [];
+    let currentNoteIndex = -1;
+    let autoSaveTimer;
+    const AUTO_SAVE_INTERVAL = 120000; // 2 minutes
+    let isPreviewVisible = false;
+    let isMarkmapVisible = false;
+
+    function safeStorage(operation, key, value) {
+      try {
+        if (operation === 'get') {
+          return localStorage.getItem(key);
+        } else if (operation === 'set') {
+          localStorage.setItem(key, value);
+        }
+      } catch (e) {
+        console.warn('localStorage is not available:', e);
+        return null;
+      }
+    }
+
+    function loadNotes() {
+      const storedNotes = safeStorage('get', 'notes');
+      notes = storedNotes ? JSON.parse(storedNotes) : [];
+      renderSavedNotes();
+    }
+
+    function saveNotes() {
+      safeStorage('set', 'notes', JSON.stringify(notes));
+    }
+
+    function updateCharCount() {
+      const content = noteInput.value;
+      const chars = content.length;
+      const words = content.trim() === '' ? 0 : content.trim().split(/\s+/).length;
+      charCount.textContent = `${chars} character${chars !== 1 ? 's' : ''}, ${words} word${words !== 1 ? 's' : ''}`;
+    }
+
+    function saveNote() {
+      const title = titleInput.value.trim();
+      const content = noteInput.value.trim();
+      const tags = tagInput.value.split(',').map(tag => tag.trim()).filter(tag => tag);
+      
+      if (content) {
+        if (currentNoteIndex > -1) {
+          notes[currentNoteIndex] = { title, content, tags };
+        } else {
+          notes.push({ title, content, tags });
+          currentNoteIndex = notes.length - 1;
+        }
+        saveNotes();
+        renderSavedNotes();
+        console.log('Note saved');
+      }
+    }
+
+    function startAutoSave() {
+      clearTimeout(autoSaveTimer);
+      autoSaveTimer = setTimeout(() => {
+        saveNote();
+        console.log('Auto-saved');
+      }, AUTO_SAVE_INTERVAL);
+    }
+
+    function clearInputs() {
+      titleInput.value = '';
+      tagInput.value = '';
+      noteInput.value = '';
+      preview.innerHTML = '';
+      currentNoteIndex = -1;
+      updateCharCount();
+      clearTimeout(autoSaveTimer);
+    }
+
+    function deleteNote() {
+      if (currentNoteIndex > -1) {
+        notes.splice(currentNoteIndex, 1);
+        saveNotes();
+        clearInputs();
+        renderSavedNotes();
+      }
+    }
+
+    function renderSavedNotes(searchTerm = '') {
+      savedNotesList.innerHTML = '';
+      const categories = {};
+      notes.forEach((note, index) => {
+        const noteTitle = note.title || 'Untitled';
+        const noteContent = note.content || '';
+        const noteTags = note.tags || [];
+        if (noteTitle.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            noteContent.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            noteTags.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase()))) {
+          const category = noteTags[0] || 'Uncategorized';
+          if (!categories[category]) {
+            categories[category] = [];
+          }
+          categories[category].push({ title: noteTitle, index });
+        }
+      });
+
+      Object.keys(categories).sort().forEach(category => {
+        const categoryDiv = document.createElement('div');
+        categoryDiv.classList.add('category');
+        
+        const categoryHeader = document.createElement('div');
+        categoryHeader.classList.add('category-header');
+        categoryHeader.textContent = category;
+        categoryHeader.addEventListener('click', () => {
+          categoryNotes.style.display = categoryNotes.style.display === 'none' ? 'block' : 'none';
+        });
+        
+        const categoryNotes = document.createElement('div');
+        categoryNotes.classList.add('category-notes');
+        
+        categories[category].forEach(note => {
+          const noteElement = document.createElement('div');
+          noteElement.classList.add('saved-note');
+          noteElement.textContent = note.title;
+          noteElement.addEventListener('click', () => {
+            clearTimeout(autoSaveTimer);
+            currentNoteIndex = note.index;
+            const loadedNote = notes[note.index];
+            titleInput.value = loadedNote.title || '';
+            tagInput.value = (loadedNote.tags || []).join(', ');
+            noteInput.value = loadedNote.content || '';
+            updateCharCount();
+            updatePreview();
+            if (isMarkmapVisible) {
+              updateMarkmap();
+            }
+          });
+          categoryNotes.appendChild(noteElement);
+        });
+        
+        categoryDiv.appendChild(categoryHeader);
+        categoryDiv.appendChild(categoryNotes);
+        savedNotesList.appendChild(categoryDiv);
+      });
+    }
+
+    function updatePreview() {
+      const content = noteInput.value;
+      const formattedContent = content
+        .replace(/#{1,6}\s+(.+)/g, (match, p1, offset) => {
+          const level = match.trim().split(' ')[0].length;
+          return `<h${level}>${p1}</h${level}>`;
+        })
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.+?)\*/g, '<em>$1</em>')
+        .replace(/`(.+?)`/g, '<code>$1</code>')
+        .replace(/^---$/gm, '<hr>')
+        .replace(/\n/g, '<br>');
+      preview.innerHTML = formattedContent;
+    }
+
+    function togglePreview() {
+      isPreviewVisible = !isPreviewVisible;
+      isMarkmapVisible = false;
+      preview.style.display = isPreviewVisible || isMarkmapVisible ? 'block' : 'none';
+      updatePreviewOrMarkmap();
+    }
+
+    function toggleMarkmap() {
+      isMarkmapVisible = !isMarkmapVisible;
+      isPreviewVisible = false;
+      preview.style.display = isPreviewVisible || isMarkmapVisible ? 'block' : 'none';
+      updatePreviewOrMarkmap();
+    }
+
+    function updateMarkmap() {
+      preview.innerHTML = '';
+      const { Markmap } = window.markmap;
+      const markdown = noteInput.value;
+      const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      preview.appendChild(svg);
+      Markmap.create(svg, null, markdown);
+    }
+
+    function updatePreviewOrMarkmap() {
+      if (isMarkmapVisible) {
+        updateMarkmap();
+      } else if (isPreviewVisible) {
+        updatePreview();
+      } else {
+        preview.innerHTML = '';
+      }
+    }
+
+    function exportNotes() {
+      const exportContent = notes.map(note => 
+        `Title: ${note.title || 'Untitled'}\nTags: ${note.tags.join(', ')}\n\n${note.content}\n\n---\n\n`
+      ).join('');
+      
+      const blob = new Blob([exportContent], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'exported_notes.txt';
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function handleKeyboardShortcuts(e) {
+      if (e.ctrlKey) {
+        switch (e.key.toLowerCase()) {
+          case 'v':
+            e.preventDefault();
+            togglePreview();
+            break;
+          case 'm':
+            e.preventDefault();
+            toggleMarkmap();
+            break;
+        }
+      }
+    }
+
+    saveButton.addEventListener('click', saveNote);
+    clearButton.addEventListener('click', clearInputs);
+    deleteButton.addEventListener('click', deleteNote);
+    searchInput.addEventListener('input', (e) => renderSavedNotes(e.target.value));
+    noteInput.addEventListener('input', () => {
+      updateCharCount();
+      updatePreviewOrMarkmap();
+      startAutoSave();
+    });
+    titleInput.addEventListener('input', startAutoSave);
+    tagInput.addEventListener('input', startAutoSave);
+    document.addEventListener('keydown', handleKeyboardShortcuts);
+    togglePreviewButton.addEventListener('click', togglePreview);
+    toggleMarkmapButton.addEventListener('click', toggleMarkmap);
+    exportButton.addEventListener('click', exportNotes);
+
+    loadNotes();
+    updateCharCount();
+  </script>
+</body>
+</html>

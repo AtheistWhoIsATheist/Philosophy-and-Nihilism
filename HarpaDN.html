@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+<title>HELL YES! AI-Powered Note-Taking App</title> <style> /* Dark theme with minimalist, power-user aesthetics */ body { margin: 0; padding: 0; background-color: #121212; color: #e0e0e0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; } .container { max-width: 900px; margin: 2rem auto; padding: 1rem; } h1, h2 { text-align: center; } textarea { width: 100%; height: 250px; background-color: #1e1e1e; border: 1px solid #333; color: #e0e0e0; padding: 1rem; font-size: 1rem; border-radius: 5px; resize: vertical; } button { background-color: #6200ea; border: none; color: #fff; padding: 0.75rem 1.5rem; margin: 0.5rem; font-size: 1rem; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease; } button:hover { background-color: #3700b3; } .notes { margin-top: 2rem; } .note { background-color: #1e1e1e; padding: 1rem; margin-bottom: 1rem; border-radius: 5px; position: relative; word-wrap: break-word; } .note button.delete { background-color: transparent; border: none; color: #ff5252; position: absolute; top: 5px; right: 5px; cursor: pointer; font-size: 1.2rem; } .note button.delete:hover { color: #ff1744; } </style> </head> <body> <div class="container"> <h1>HELL YES! AI-Powered Note-Taking App</h1> <h2>Not just simple—powerful enough for champions!</h2> <textarea id="noteInput" placeholder="Unleash your thoughts here..." ></textarea> <div style="text-align: center;"> <button id="saveBtn">Save Note</button> <button id="clearAllBtn" style="background-color: #d32f2f;">Clear All</button> </div> <div class="notes" id="notesContainer"></div> </div>
+<script>
+  const saveBtn = document.getElementById('saveBtn');
+  const clearAllBtn = document.getElementById('clearAllBtn');
+  const noteInput = document.getElementById('noteInput');
+  const notesContainer = document.getElementById('notesContainer');
+
+  // Power-user feature: Save note function with deletion capability
+  function saveNote() {
+    const noteText = noteInput.value.trim();
+    if (noteText) {
+      const noteElement = document.createElement('div');
+      noteElement.className = 'note';
+      
+      // Text content of the note:
+      const noteContent = document.createElement('span');
+      noteContent.textContent = noteText;
+      noteElement.appendChild(noteContent);
+      
+      // Delete button for each note:
+      const deleteBtn = document.createElement('button');
+      deleteBtn.className = 'delete';
+      deleteBtn.innerHTML = '&times;';
+      deleteBtn.onclick = () => {
+        noteElement.remove();
+      };
+      noteElement.appendChild(deleteBtn);
+
+      // Prepend new note to the container
+      notesContainer.prepend(noteElement);
+      noteInput.value = '';
+    } else {
+      alert('Please type a note before saving.');
+    }
+  }
+
+  // Clear all notes
+  function clearAllNotes() {
+    if (notesContainer.childElementCount > 0 && confirm('Are you sure you want to clear all notes?')) {
+      notesContainer.innerHTML = '';
+    }
+  }
+
+  saveBtn.addEventListener('click', saveNote);
+  clearAllBtn.addEventListener('click', clearAllNotes);
+  
+  // Optional: Save note on Ctrl+Enter for power-user speed
+  noteInput.addEventListener('keydown', (e) => {
+    if (e.ctrlKey && e.key === 'Enter') {
+      saveNote();
+    }
+  });
+</script>
+</body> 
+</html>

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DarkNote</title>
+  <script defer src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    /* Theme Variables */
+    :root {
+      --bg-color: #161618;
+      --text-color: #e0e0e0;
+      --sidebar-bg: #111113;
+      --input-bg: #242425;
+      --input-border: #333;
+      --button-bg: #2a2a2a;
+      --hover-bg: #5a5a5a;
+    }
+
+    /* Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Palatino Linotype", serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    .container {
+      display: flex;
+      height: 100vh;
+      flex-direction: column;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: 100%;
+      background: var(--sidebar-bg);
+      padding: 10px;
+      display: none;
+    }
+
+    .sidebar input {
+      width: 100%;
+      padding: 10px;
+      background: var(--input-bg);
+      border: 1px solid var(--input-border);
+      color: var(--text-color);
+    }
+
+    /* Mobile Menu */
+    .menu-button {
+      background: var(--button-bg);
+      color: var(--text-color);
+      border: none;
+      padding: 10px;
+      font-size: 16px;
+      width: 100%;
+      display: block;
+      text-align: left;
+    }
+
+    .menu-button:active {
+      background: var(--hover-bg);
+    }
+
+    /* Main Content */
+    .main-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+    }
+
+    .editor-preview {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      flex-grow: 1;
+    }
+
+    .editor {
+      flex: 1;
+    }
+
+    textarea {
+      width: 100%;
+      background: var(--input-bg);
+      color: var(--text-color);
+      border: 1px solid var(--input-border);
+      padding: 10px;
+      height: 150px;
+      font-size: 16px;
+    }
+
+    #preview {
+      flex: 1;
+      background: var(--button-bg);
+      padding: 10px;
+      overflow-y: auto;
+    }
+
+    /* Buttons */
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    button {
+      background: var(--button-bg);
+      color: var(--text-color);
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 14px;
+      flex: 1;
+    }
+
+    button:hover {
+      background: var(--hover-bg);
+    }
+
+    /* Hidden */
+    .hidden {
+      display: none;
+    }
+
+    /* Mobile Responsive */
+    @media screen and (min-width: 768px) {
+      .container {
+        flex-direction: row;
+      }
+
+      .sidebar {
+        width: 250px;
+        display: block;
+      }
+
+      .menu-button {
+        display: none;
+      }
+
+      .editor-preview {
+        flex-direction: row;
+      }
+
+      textarea {
+        height: 200px;
+      }
+
+      button {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <button class="menu-button" onclick="toggleSidebar()">☰ Menu</button>
+
+  <div class="container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <h1>Dark Notes</h1>
+      <input type="text" id="searchInput" placeholder="Search notes...">
+      <div id="savedNotesList"></div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="editor-preview">
+        <section class="editor">
+          <input type="text" id="titleInput" placeholder="Note Title">
+          <input type="text" id="tagInput" placeholder="Tags (comma-separated)">
+          <textarea id="noteInput" placeholder="Enter your note..."></textarea>
+          <div id="charCount">0 characters, 0 words</div>
+        </section>
+
+        <!-- Markdown Preview -->
+        <section id="preview" class="hidden"></section>
+      </div>
+
+      <!-- AI Options -->
+      <input type="text" id="customPromptInput" placeholder="Custom AI prompt">
+      <select id="aiActionSelect">
+        <option value="summarize">Summarize</option>
+        <option value="generateIdeas">Generate Ideas</option>
+        <option value="extractWisdom">Extract Wisdom</option>
+      </select>
+
+      <!-- Buttons -->
+      <div class="buttons">
+        <button id="saveButton">Save</button>
+        <button id="clearButton">Clear</button>
+        <button id="deleteButton">Delete</button>
+        <button id="togglePreviewButton">MD Preview</button>
+        <button id="performAIActionButton">AI</button>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      let notes = JSON.parse(localStorage.getItem('notes')) || [];
+      let currentNoteIndex = -1;
+
+      const elements = {
+        noteInput: document.getElementById('noteInput'),
+        titleInput: document.getElementById('titleInput'),
+        tagInput: document.getElementById('tagInput'),
+        saveButton: document.getElementById('saveButton'),
+        deleteButton: document.getElementById('deleteButton'),
+        searchInput: document.getElementById('searchInput'),
+        savedNotesList: document.getElementById('savedNotesList'),
+        preview: document.getElementById('preview'),
+      };
+
+      function saveNote() {
+        const title = elements.titleInput.value.trim() || 'Untitled';
+        const content = elements.noteInput.value.trim();
+        const tags = elements.tagInput.value.split(',').map(tag => tag.trim()).filter(tag => tag !== '');
+
+        if (!title && !content) return alert('Enter a title or content.');
+
+        const noteData = { title, content, tags, timestamp: new Date().toISOString() };
+        if (currentNoteIndex > -1) {
+          notes[currentNoteIndex] = noteData;
+        } else {
+          notes.unshift(noteData);
+        }
+
+        localStorage.setItem('notes', JSON.stringify(notes));
+        renderNotes();
+        clearInputs();
+      }
+
+      function deleteNote() {
+        if (currentNoteIndex > -1 && confirm('Delete this note?')) {
+          notes.splice(currentNoteIndex, 1);
+          localStorage.setItem('notes', JSON.stringify(notes));
+          renderNotes();
+          clearInputs();
+        }
+      }
+
+      function renderNotes(searchTerm = '') {
+        elements.savedNotesList.innerHTML = '';
+        notes.filter(note => note.title.toLowerCase().includes(searchTerm.toLowerCase()))
+          .forEach((note, index) => {
+            const div = document.createElement('div');
+            div.textContent = note.title;
+            div.addEventListener('click', () => loadNote(index));
+            elements.savedNotesList.appendChild(div);
+          });
+      }
+
+      function toggleSidebar() {
+        document.querySelector('.sidebar').classList.toggle('hidden');
+      }
+
+      elements.saveButton.addEventListener('click', saveNote);
+      elements.deleteButton.addEventListener('click', deleteNote);
+      elements.searchInput.addEventListener('input', () => renderNotes(elements.searchInput.value));
+
+      renderNotes();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dark Notes App with ChatGPT Integration</title>
+  <style>
+    body {
+      font-family: "Palatino Linotype", "PT Serif", Palatino, serif;
+      background-color: #1a1a1b;
+      color: #e0e0e0;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      height: 100vh;
+    }
+
+    #app {
+      width: 400px;
+      padding: 20px;
+      background-color: #242425;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+
+    #notes-container {
+      margin-bottom: 20px;
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #444;
+      border-radius: 5px;
+      padding: 10px;
+      background-color: #1e1e1f;
+    }
+
+    .note {
+      background-color: #2a2a2b;
+      color: #e0e0e0;
+      padding: 10px;
+      margin-bottom: 5px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #title-input, #tag-input, #note-input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #444;
+      border-radius: 5px;
+      background-color: #1e1e1f;
+      color: #e0e0e0;
+      font-size: 16px;
+    }
+
+    #note-input {
+      height: 60px;
+    }
+
+    button {
+      width: 48%;
+      padding: 10px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 10px;
+      transition: background-color 0.3s;
+    }
+
+    #save-note {
+      background-color: #007bff;
+      color: white;
+    }
+
+    #save-note:hover {
+      background-color: #0056b3;
+    }
+
+    #clear-note {
+      background-color: #6c757d;
+      color: white;
+    }
+
+    #clear-note:hover {
+      background-color: #5a6268;
+    }
+
+    #delete-note {
+      background-color: #dc3545;
+      color: white;
+    }
+
+    #delete-note:hover {
+      background-color: #c82333;
+    }
+
+    #ask-chatgpt {
+      background-color: #007bff;
+      color: white;
+    }
+
+    #ask-chatgpt:hover {
+      background-color: #0056b3;
+    }
+
+    #chatgpt-response {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #1e1e1f;
+      border: 1px solid #444;
+      border-radius: 5px;
+      color: #ffffff;
+      min-height: 50px;
+    }
+
+    #error-message {
+      color: red;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    /* Scrollbar styling for dark theme */
+    #notes-container::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    #notes-container::-webkit-scrollbar-thumb {
+      background-color: #444;
+      border-radius: 5px;
+    }
+
+    #notes-container::-webkit-scrollbar-track {
+      background-color: #2a2a2b;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <h1>Dark Notes App</h1>
+    <input type="text" id="title-input" placeholder="Title">
+    <input type="text" id="tag-input" placeholder="Tags (comma-separated)">
+    <textarea id="note-input" placeholder="Type your note here..."></textarea>
+    <div id="notes-container">
+      <!-- Notes will be dynamically added here -->
+    </div>
+    <div>
+      <button id="save-note">Save Note</button>
+      <button id="clear-note">Clear</button>
+    </div>
+    <div>
+      <button id="delete-note">Delete Note</button>
+      <button id="ask-chatgpt">Ask ChatGPT</button>
+    </div>
+    <div id="chatgpt-response">
+      <!-- ChatGPT responses will be displayed here -->
+    </div>
+    <div id="error-message"></div>
+  </div>
+
+  <script>
+    // State to store notes
+    let notes = [];
+    let currentNoteIndex = null;
+
+    document.getElementById('save-note').addEventListener('click', saveNote);
+    document.getElementById('clear-note').addEventListener('click', clearInputs);
+    document.getElementById('delete-note').addEventListener('click', deleteNote);
+    document.getElementById('ask-chatgpt').addEventListener('click', askChatGPT);
+
+    // Function to save a note
+    function saveNote() {
+      const title = document.getElementById('title-input').value.trim();
+      const tags = document.getElementById('tag-input').value.trim().split(',').map(tag => tag.trim());
+      const content = document.getElementById('note-input').value.trim();
+
+      if (!title || !content) {
+        document.getElementById('error-message').textContent = "Title and content are required!";
+        return;
+      }
+
+      const note = { title, tags, content };
+
+      if (currentNoteIndex !== null) {
+        notes[currentNoteIndex] = note; // Update existing note
+      } else {
+        notes.push(note); // Add new note
+      }
+
+      renderNotes();
+      clearInputs();
+      currentNoteIndex = null; // Reset index
+    }
+
+    // Function to clear the input fields
+    function clearInputs() {
+      document.getElementById('title-input').value = '';
+      document.getElementById('tag-input').value = '';
+      document.getElementById('note-input').value = '';
+      document.getElementById('error-message').textContent = ''; // Clear error message
+    }
+
+    // Function to delete a note
+    function deleteNote() {
+      if (currentNoteIndex !== null) {
+        notes.splice(currentNoteIndex, 1);
+        renderNotes();
+        clearInputs();
+        currentNoteIndex = null;
+      } else {
+        document.getElementById('error-message').textContent = "Please select a note to delete!";
+      }
+    }
+
+    // Function to render the notes in the UI
+    function renderNotes() {
+      const notesContainer = document.getElementById('notes-container');
+      notesContainer.innerHTML = ''; // Clear existing notes
+
+      notes.forEach((note, index) => {
+        const noteElement = document.createElement('div');
+        noteElement.className = 'note';
+        noteElement.textContent = `${note.title} - ${note.tags.join(', ')}`;
+        noteElement.addEventListener('click', () => loadNoteToEditor(index));
+        notesContainer.appendChild(noteElement);
+      });
+    }
+
+    // Function to load a note into the editor for editing
+    function loadNoteToEditor(index) {
+      const note = notes[index];
+      document.getElementById('title-input').value = note.title;
+      document.getElementById('tag-input').value = note.tags.join(', ');
+      document.getElementById('note-input').value = note.content;
+      currentNoteIndex = index;
+    }
+
+    // Function to send notes to ChatGPT and get a response
+    async function askChatGPT() {
+      const noteContent = document.getElementById('note-input').value.trim();
+
+      if (!noteContent) {
+        document.getElementById('error-message').textContent = "Please enter a note before asking ChatGPT!";
+        return;
+      }
+
+      document.getElementById('error-message').textContent = ''; // Clear any previous error message
+
+      try {
+        const response = await fetch('/chatgpt', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ notes })
+        });
+
+        if (!response.ok) {
+          throw new Error('Error communicating with ChatGPT');
+        }
+
+        const data = await response.json();
+        document.getElementById('chatgpt-response').textContent = data.response;
+      } catch (error) {
+        document.getElementById('error-message').textContent = `Error: ${error.message}`;
+      }
+    }
+  </script>
+</body>
+</html>

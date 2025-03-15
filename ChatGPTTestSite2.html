@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paralyzing Nihilism</title>
+    <style>
+        body {
+            font-family: "Palatino Linotype", "PT Serif", Palatino, serif;
+            background-color: #1f1f1f;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 15px;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+
+        .container {
+            display: flex;
+            gap: 20px;
+            height: 100%;
+        }
+
+        /* Side navigation for notes */
+        .saved-notes {
+            width: 250px;
+            min-width: 250px;
+            background: linear-gradient(to bottom, #1c1c1c,#202020,#222222);
+            padding: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.1), 0 1px 2px rgba(255,255,255,0.05);
+        }
+
+        .saved-notes h2 {
+            color: #ffffff;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+        }
+
+        .saved-note {
+            background-color: #242424;
+            padding: 8px;
+            margin-top: 10px;
+            border-radius: 3px;
+            cursor: pointer;
+            color: #e0e0e0;
+        }
+
+        .saved-note:hover {
+            background-color: #333333;
+        }
+
+        .main-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            overflow-y: auto;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.1), 0 1px 2px rgba(255,255,255,0.05);
+        }
+
+        /* Content header styles */
+        header {
+            background-color: #2c2c2c;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #e0e0e0;
+        }
+
+        section {
+            flex-grow: 1;
+            margin-top: 20px;
+            background-color: #242424;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        section h2 {
+            font-size: 2em;
+            color: #e0e0e0;
+        }
+
+        section p {
+            font-size: 1.2em;
+            line-height: 1.8em;
+            color: #cccccc;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #1e1e1e;
+            border-top: 1px solid #282828;
+            color: #999999;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #ffffff;
+        }
+
+        /* Buttons and input styling */
+        button {
+            background-color: #2a2a2a;
+            color: #e0e0e0;
+            border: none;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #5a5a5a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Left section for saved notes -->
+        <div class="saved-notes">
+            <h2>Philosophical Works</h2>
+            <div class="saved-note"><a href="work1.html" style="text-decoration: none; color: inherit;">The Religious Experience of Nihilism</a></div>
+            <div class="saved-note"><a href="work2.html" style="text-decoration: none; color: inherit;">The Uncanny Illusion of Naturalism</a></div>
+            <div class="saved-note"><a href="work3.html" style="text-decoration: none; color: inherit;">The Abyssal Experience of Nihilism</a></div>
+            <div class="saved-note"><a href="work4.html" style="text-decoration: none; color: inherit;">Madness, Nonexistence, and the Other</a></div>
+            <div class="saved-note"><a href="work5.html" style="text-decoration: none; color: inherit;">The Startling Encounter with Infinite Nothingness</a></div>
+        </div>
+
+        <!-- Main content section -->
+        <div class="main-content">
+            <header>
+                <h1>Nihiltheism - Adam's Philosophy</h1>
+            </header>
+
+            <section id="philosophy">
+                <h2>The Religious Experience of Nihilism</h2>
+                <p>“...turn us into melancholy metaphysicians. The pride of life and glory of the world will shrivel. It is after all but the standing quarrel of hot youth and hoary old. Old age has the last word: the purely naturalistic look at life however enthusiastically it may begin is sure to end in sadness. This sadness lies at the heart of every merely positivistic, agnostic, or naturalistic scheme of philosophy...” - James</p>
+                <p>"To this extent, nihilism, as the denial of a truthful world of being, might be a divine way of thinking." - Nietzsche</p>
+                <p>This is a work of infinite ambition and utter worthlessness; a work of questions rather than answers. This is an interpretation of Nihilism that finds the ‘everyday’ view, the mainstream philosophical definitions, misguided at best...</p>
+            </section>
+
+            <footer>
+                <p>© 2024 The Religious Experiene of Nihilism</p>
+                <p><a href="index.html">Back to Main Page</a></p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
