@@ -1,11 +1,3 @@
----
-date: 2024-02-07 03:31:40
-created: 2024-02-07 03:28:46
-categories:
-- NT Research / Questions
-- Prompts / AI Convos / AiAgentApp
----
-
 # 50 unique and novel ideas for a work of philosophy focused on Nihilism and God
 
 #2024-2-7
@@ -16,7 +8,7 @@ categories:
 
 * * *
 
-<br>
+  
 
 - The compatibility and incompatibility of nihilism and the existence of God.
 - The role of nihilism in challenging traditional arguments for the existence of God.

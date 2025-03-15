@@ -1,8 +1,8 @@
 ---
 date: 2023-09-18 03:03:01
-created: 2023-07-28 08:41:50
-categories:
-- NT Research / NT Notes
+Date: 2023-07-28 08:41:50
+Folders:
+  - NT Research / NT Notes
 ---
 
 ## List of Topics for Research
