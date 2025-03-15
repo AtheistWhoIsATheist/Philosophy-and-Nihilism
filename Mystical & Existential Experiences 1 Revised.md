@@ -1,5 +1,5 @@
 ---
-date: 2025-01-08 13:35:22
+date: 2024-12-21 21:10:45
 created: 2024-12-13 21:57:51
 categories:
 - NT Research / NT Notes / Notes on Mysticism
@@ -16,7 +16,6 @@ categories:
 **Backlinks:** 
 
 - [Mystical & Existential Experiences 2: Longest V/Redundant: REVISED](Mystical%20%26%20Existential%20Experiences%202%20Longest%20VRedundant%20REVISED.md "upnote://x-callback-url/openNote?noteId=88695312-FBDA-47AF-BB54-E9B0D7E33014")
-- [Mystical and Nihilistic Experiences](Mystical%20and%20Nihilistic%20Experiences.md "upnote://x-callback-url/openNote?noteId=c887cb39-284e-4bb2-a90a-8c6213dbd108")
 
 **Tags:**#mystical
 

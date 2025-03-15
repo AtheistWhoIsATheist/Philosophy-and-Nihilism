@@ -12,7 +12,7 @@ Friday, June 7, 2024, todayswork
 
 - Written by #gemini, #framework
 
-[Philosophical Synergy Matrix (PSM) & Applied Expert System](Philosophical%20Synergy%20Matrix%20\(PSM\)%C2%A0%26%20Applied%20Expert%20System.md)
+[[Philosophical Synergy Matrix (PSM) & Applied Expert System]]
 
 * * *
 

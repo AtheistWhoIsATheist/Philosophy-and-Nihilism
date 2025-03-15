@@ -16,7 +16,7 @@ categories:
 
 **Tags: #mystical  #worldly #01mini**
 
-#### Notes: Got the response to be this long (28000 words) with this prompt: [\# Long Response Prompt](%23%20Long%20Response%20Prompt.md "upnote://x-callback-url/openNote?noteId=8df001b7-65be-424e-b3da-6a2e4464729d")
+#### Notes: Got the response to be this long (28000 words) with this prompt: [[# Long Response Prompt]]
 
 * * *
 

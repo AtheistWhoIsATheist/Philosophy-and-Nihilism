@@ -1,16 +1,16 @@
 ---
 date: 2023-11-25 16:53:28
-created: 2023-11-13 20:12:14
-categories:
-- NT Research / NT Notes / Notes on Mysticism
-- NT Research / Questions
+Date: 2023-11-13 20:12:14
+Folders:
+  - NT Research / NT Notes / Notes on Mysticism
+  - NT Research / Questions
 ---
 
 # Entheogens & Nihiltheism 
 
 Nov 25, 2023
 
-Try combining with [[The Startling Encounter with Infinite Nothingness (Edit)]]
+Try combining with [The Startling Encounter with Infinite Nothingness (Edit)](The Startling Encounter with Infinite Nothingness \(Edit\).md "upnote://x-callback-url/openNote?noteId=fc9e2d1d-fdcb-4bd5-ba73-4286c1716bb3")
 
   
 

@@ -13,7 +13,7 @@ categories:
 
 **\[\[[[Nihiltheism: Transcending the Abyss of Nothingness]]\- ChatGPT4.o V**
 
-**[Nihiltheism: Transcending the Abyss of Nothingness](Nihiltheism%20Transcending%20the%20Abyss%20of%20Nothingness%202.md)\-this has my side of convo cut out and just claude's essay.**  
+**[[Nihiltheism: Transcending the Abyss of Nothingness]]\-this has my side of convo cut out and just claude's essay.**  
 
 - **Not sure where Part I was written, but Part II is #claude, #nothingness**
 
@@ -21,7 +21,7 @@ categories:
 
 [Nihiltheism, Transcendent Nothingness, & World Religions: A Comparison](Nihiltheism%2C%20Transcendent%20Nothingness%2C%20%26%20World%20Religions%20A%20Comparison.md)
 
-[MOC Nothingness](MOC%20Nothingness%202.md)
+[[MOC Nothingness]]
 
 # 
 

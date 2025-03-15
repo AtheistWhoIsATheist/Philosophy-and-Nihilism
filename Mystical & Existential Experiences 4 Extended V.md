@@ -3052,7 +3052,7 @@ Underlying this phenomenological approach are several key assumptions. Firstly, 
 
   
 
-**#In # m Tracing Logical Implications**
+**\#In # m Tracing Logical Implications**
 
   
 

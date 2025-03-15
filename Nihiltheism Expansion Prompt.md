@@ -1,9 +1,9 @@
 ---
 date: 2024-08-19 04:37:49
-Date: 2024-08-19 04:31:42
-Folders:
-  - NT Research / NT Notes / Notes on Mysticism
-  - Prompts / AI Convos / Perplexity
+created: 2024-08-19 04:31:42
+categories:
+- NT Research / NT Notes / Notes on Mysticism
+- Prompts / AI Convos / Perplexity
 ---
 
 # Nihiltheism Expansion Prompt

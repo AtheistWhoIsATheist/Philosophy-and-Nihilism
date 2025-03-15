@@ -16,7 +16,7 @@ categories:
 
 **
 
-# [Novel Ideation Prompt Enhancer](Novel%20Ideation%20Prompt%20Enhancer.md)
+# [[NT Research/Definitions/Novel Ideation Prompt Enhancer]]
 
 [https://chatgpt.com/c/0508c409-6c5f-4db7-af2a-39d96ff1189f](https://chatgpt.com/c/0508c409-6c5f-4db7-af2a-39d96ff1189f)
 
@@ -24,7 +24,7 @@ categories:
 
 * * *
 
-# [Claude 3: Mystical Analysis, Summary, & Essay](Claude%203%20Mystical%20Analysis%2C%20Summary%2C%20%26%20Essay.md)
+# [[Claude 3: Mystical Analysis, Summary, & Essay]]
 
 * * *
 
@@ -37,7 +37,7 @@ categories:
 - Two Notes I musn't forget, manditory reading.
 
 1. Claude 3: Mystical Analysis, Summary, & Essay
-2. [Novel Ideation Prompt Enhancer](Novel%20Ideation%20Prompt%20Enhancer.md "upnote://x-callback-url/openNote?noteId=a86d9522-0618-49b7-a030-a26a6e075bfa")
+2. [[NT Research/Definitions/Novel Ideation Prompt Enhancer]]
 
 #novelidea #promptenhancer from #harpa & #claude
 

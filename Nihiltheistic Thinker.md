@@ -1,3 +1,12 @@
+---
+date: 2024-10-04 13:15:30
+created: 2024-01-02 14:45:43
+categories:
+- NT Research / NT Notes / Notes on Mysticism
+- NT Research / Questions
+- Prompts / GPTs For NT / OpenAi GPTs
+---
+
 # Nihiltheistic Thinker
 
  Tuesday, **Jan 2, 2024**
