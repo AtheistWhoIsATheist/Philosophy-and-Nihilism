@@ -1,6 +1,6 @@
 ---
 date: 2024-06-26 07:21:42
-created: 2023-08-17 13:37:12
+Date: 2023-08-17 13:37:12
 Folders:
   - NT Research / Outlines
   - NT Research / Summaries
@@ -120,8 +120,7 @@ _**Possible Categories to Write On- Could this language help others who can’t 
 
 # Mermaid Graph
 
-\`\`\`mermaid
-
+```mermaid
 graph TB
 
     A\[Preface\] --> B\[Exploration of Nihilism\]
@@ -273,5 +272,4 @@ graph TB
     BM --> BW\[Introduction of 'Nihiltheism'\]
 
     BM --> BX\[Further Reflection on Nihilistic Language\]
-
-\`\`\`
+```
