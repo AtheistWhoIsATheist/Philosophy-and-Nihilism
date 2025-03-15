@@ -1,6 +1,8 @@
 ---
-date: 2025-01-19 00:35:49
-created: 2025-01-19 00:35:49
+date: 2024-01-14 10:53:10
+created: 2024-01-14 10:53:10
+categories:
+- NT Research / MarkMaps
 ---
 
-[You’ve Ruined My Life, Profess.pdf (124 KB)](Files/You%E2%80%99ve%20Ruined%20My%20Life%2C%20Profess.pdf)
+[Mind Map.textpack (14 KB)](Files/Mind%20Map.textpack)

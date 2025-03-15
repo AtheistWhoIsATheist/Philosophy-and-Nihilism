@@ -9,4 +9,4 @@ categories:
 
 1/26/24
 
-![](Files/image%204.png)
+![](Files/image.png)

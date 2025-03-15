@@ -1,18 +1,17 @@
 ---
 date: 2024-08-29 10:04:00
-Date: 2024-08-29 10:03:53
-Folders:
-  - NT Research / NT Notes / Notes of Suicide
-tags:
-  - suicide
-  - nonexistence
+created: 2024-08-29 10:03:53
+categories:
+- NT Research / MarkMaps
 ---
-[The Challenge of Suicide 2](The%20Challenge%20of%20Suicide%202.md)
-
 
 # _The Challenge of Suicide_
 
 - A Nihiltheistic Conversation Tree
+
+17/06/2024 #cyclical, #brainstorm, #suicide, #nonexistence
+
+* * *
 
 ## Topic: _The Challenge of Suicide_
 
