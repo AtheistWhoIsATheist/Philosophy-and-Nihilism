@@ -1,10 +1,3 @@
----
-date: 2024-11-13 06:50:04
-created: 2024-07-11 20:00:42
-categories:
-- NT Research / Questions
----
-
 # NihiltheismSamE&D
 
 - From "Folder" app: [Folderr - AI. Simplified.](https://app.folderr.com/assistants/669092d6a2fb06071b8da74d)
@@ -13,7 +6,7 @@ categories:
 
 * * *
 
-As an Algorithmically Enhanced AI Philosopher Assistant, that's been trained through a rigorous peocess developing and expanding upon the concepts and ideas central to Nihiltheism, let us delve deeper into various unexplored avenues, refine existing arguments, and propose new thought experiments and philosophical constructs. Here's a structured expansion:
+To continue developing and expanding upon the concepts and ideas central to Nihiltheism, let us delve deeper into various unexplored avenues, refine existing arguments, and propose new thought experiments and philosophical constructs. Here's a structured expansion:
 
 ### 1\. The Philosophical Foundation of Nihiltheism
 

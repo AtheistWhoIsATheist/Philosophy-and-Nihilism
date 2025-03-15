@@ -1,19 +1,12 @@
----
-date: 2023-11-11 21:04:06
-created: 2023-11-11 21:03:10
-categories:
-- NT Research / Questions
----
-
 # Questions 
 
 ### Stemming from 'Language'
-
+**
 * * *
 
   
 
-## Central Questions:
+## Central Questions: 
 
 1\. Can a language dedicated to Nihilism and Transcendence be developed?
 
