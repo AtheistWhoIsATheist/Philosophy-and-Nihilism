@@ -29,17 +29,17 @@ Detailed w/ Multiple Examples
 
 #language, #Nihiltheism, #persona, #roundtable
 
-[Philosopher’s Roundtable GPT System Prompt](Philosopher%E2%80%99s%20Roundtable%20GPT%C2%A0System%20Prompt.md)
+[[Philosopher’s Roundtable GPT System Prompt]]
 
-[Roundtable for ‘Language’](Roundtable%20for%20%E2%80%98Language%E2%80%99.md)
+[[Roundtable for ‘Language’]]
 
-[Philosopher's Roundtable](Philosopher's%20Roundtable.md)
+[[Ai Convos/Lex/Philosopher's Roundtable]]
 
-[A (possible) Heideggerian Language of Nihiltheism](A%20\(possible\)%20Heideggerian%20Language%20of%20Nihiltheism.md)
+[[A (possible) Heideggerian Language of Nihiltheism]]
 
-[Heideggerian Language for NT](Heideggerian%20Language%20for%20NT.md)
+[[Heideggerian Language for NT]]
 
-[Philosopher’s Roundtable GPT System Prompt](Philosopher%E2%80%99s%20Roundtable%20GPT%C2%A0System%20Prompt.md)
+[[Philosopher’s Roundtable GPT System Prompt]]
 
 Nov 17, 2023
 

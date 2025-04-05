@@ -13,17 +13,17 @@ Wednesday, December 20, 2023
 
 #language #framework #2023-12-20
 
-[Nihiltheistic Framework for Further Development](Nihiltheistic%20Framework%20for%20Further%20Development.md "upnote://x-callback-url/openNote?noteId=b6104bea-7685-41bf-a591-b5207f8843ab")
+[[Nihiltheistic Framework for Further Development]]
 
-[Lex Version Framework for Philosophical Development of Nihiltheism](Lex%20Version%20Framework%20for%20Philosophical%20Development%20of%20Nihiltheism.md "upnote://x-callback-url/openNote?noteId=D537C6AA-D0CD-4F1D-A745-220EBC2B054D")
+[[Lex Version Framework for Philosophical Development of Nihiltheism]]
 
-<br>
+  
 
-[Nihiltheism: A Philosophical Inquiry Framework](Nihiltheism%20A%20Philosophical%20Inquiry%20Framework%202.md "upnote://x-callback-url/openNote?noteId=84be351d-d682-4746-8c32-65f289d23a8e")
+[[Nihiltheism: A Philosophical Inquiry Framework]]
 
 Based on the extensive material from "The\_Religious\_Experience\_of\_Nihilism.docx," here is a plan of action for an exploration of the topic of Nihiltheism and its intersection with Heidegger’s philosophy, among others:
 
-<br>
+  
 
 ### 1\. Establishing the Conceptual Groundwork
 
@@ -39,7 +39,7 @@ Based on the extensive material from "The\_Religious\_Experience\_of\_Nihilism.d
 
 **The Experience of Nothingness**: Focus on the personal and existential implications of 'Nothingness' as a central theme, drawing on the insights from your writings and Heidegger’s perspective.
 
-<br>
+  
 
 ### 3\. Emotional and Psychological Dimensions
 
@@ -47,7 +47,7 @@ Based on the extensive material from "The\_Religious\_Experience\_of\_Nihilism.d
 
 **Cross-disciplinary Perspectives**: Integrate psychological and perhaps theological insights to enrich your understanding of Nihiltheism and Heidegger’s philosophy.
 
-<br>
+  
 
 ### 4\. Synthesis of Philosophical and Real-world Perspectives
 
@@ -85,6 +85,6 @@ Based on the extensive material from "The\_Religious\_Experience\_of\_Nihilism.d
 
 **Continual Reading and Research**: Keep abreast of new developments and critiques in philosophical literature related to your topics of interest.
 
-<br>
+  
 
 This plan aims to provide a structured yet flexible approach, allowing for deep intellectual exploration while remaining open to personal and creative expression.

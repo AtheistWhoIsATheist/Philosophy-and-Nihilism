@@ -7,7 +7,7 @@ categories:
 
 # Nihiltheistic Thought on Despair, Faith, Doubt, Language, & Transcendence
 
-May 24th, 2024 [Nihiltheistic Thought on Despair, Faith, and Doubt](Nihiltheistic%20Thought%20on%20Despair%2C%20Faith%2C%20and%20Doubt.md), [Definition-Summary of Nihiltheism by HARPA](Definition-Summary%20of%20Nihiltheism%20by%20HARPA.md)
+May 24th, 2024 [[Nihiltheistic Thought on Despair, Faith, and Doubt]], [[Definition-Summary of Nihiltheism by HARPA]]
 
 #language, #worldly
 
@@ -24,18 +24,22 @@ May 24th, 2024 [Nihiltheistic Thought on Despair, Faith, and Doubt](Nihiltheisti
 
 ### **A. Nature of Despair**
 
-- **Existential Realization**: Despair arises from the recognition that life lacks inherent meaning or purpose. This is a core tenet of Nihiltheism, where despair is seen as an inevitable consequence of profound existential insight.
-- **Psychological and Emotional Dimensions**: Despair is experienced as a deep emotional and psychological void, marked by feelings of hopelessness, alienation, and anxiety.
+- **Existential Realization**: Despair arises from the recognition that life lacks inherent meaning, value, and purpose. This is a core tenet of Nihiltheism, where despair is seen as an inevitable consequence of directed philosophical contemplation and forthcoming existential insight.
+
+- **Psychological and Emotional Dimensions**: Despair is experienced as a deep emotional and psychological void, marked by feelings of hopelessness, alienation, boredom, anxiety and the list continues.
 
 ### **B. Forms of Despair**
 
 - **Worldly Despair**: Stemming from the failure of finite pursuits to provide lasting fulfillment. Similar to Kierkegaard’s concept, worldly despair involves attachment to transient, material aspects of life.
+
 - **Existential Despair**: A more profound form, where the individual confronts the absolute void of meaning, leading to a crisis of identity and purpose.
-- **The Absurd Perspective**: The experiential realization of the complete lack of meaning, value, or purpose within the world.
+
+- **The Absurd Perspective**: This is a name for one of the most extreme experiences regarding the spectrum with which Nihilism may be encountered. The Absurd Perspective is the *experiential* realization of the complete lack of meaning, value, and purpose within the world. And maybe more importantly, this experience dissolves ine own subjectivity, along with it any attempt to elevate the subjective up to the level of the know realized, absent objective.
 
 ### **C. Despair as a Pathway**
 
-- **Catalyst for Transformation**: In Nihiltheism, despair is not merely a negative state but a catalyst for spiritual transformation. It is through confronting and embracing despair that one opens the possibility for transcendent experiences.
+- **Catalyst for Transformation**: In Nihiltheism, despair though seemingly all-consuming, is not merely a negative state of being, but a catalyst for an opening up, or clearing away, space for one to have the possibility of the Infinite be considered on a much more robust, or even spiritual level of transformation. It is through confronting and embracing despair that one opens the possibility for transcendent experiences.
+
 - **Necessary Confrontation**: Despair is seen as a necessary confrontation with the ultimate reality of nothingness, stripping away illusions and preparing the individual for a higher understanding.
 
 ## 3\. Faith in Nihiltheistic Thought
@@ -102,7 +106,6 @@ How can the interplay of despair, faith, and doubt in Nihiltheism be applied to 
 * * *
 
   
-
 # The Language of the Transcendent in Nihiltheism
 
 **Inner Dialogue (ID)**:
@@ -115,6 +118,7 @@ How can the interplay of despair, faith, and doubt in Nihiltheism be applied to 
     - Exploring alternative terminologies or justifying the use of these terms can deepen our grasp of the Transcendent's ineffable nature and its implications for human existence.
 3. **Synthesis and Expansion**:
     - By examining philosophical and mystical traditions, we can explore the various ways the Transcendent has been described and understand why "Nothingness" might be the most fitting term within the framework of Nihiltheism.
+
 
 **Articulated Response (AR)**:
 

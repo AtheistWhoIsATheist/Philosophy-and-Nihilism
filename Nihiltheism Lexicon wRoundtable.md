@@ -14,7 +14,7 @@ categories:
 
 [Nihiltheistic Language: Beginnings of the Lexicon](Nihiltheistic%20Language%20Beginnings%20of%20the%20Lexicon.md)
 
-[Prompt Expert GitHub](Prompt%20Expert%20GitHub.md)
+[[Prompt Expert GitHub]]
 
   
 

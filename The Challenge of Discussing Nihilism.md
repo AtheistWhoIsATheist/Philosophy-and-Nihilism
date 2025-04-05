@@ -1,8 +1,8 @@
 ---
 date: 2023-11-25 01:42:25
-Date: 2023-11-25 01:40:13
-Folders:
-  - NT Research / NT Notes / Notes on Language
+created: 2023-11-25 01:40:13
+categories:
+- NT Research / NT Notes / Notes on Language
 ---
 
 # The Challenge of Discussing Nihilism 

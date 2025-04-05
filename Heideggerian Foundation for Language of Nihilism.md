@@ -13,14 +13,14 @@ categories:
 
 # Initial Prompt
 
-- [Generate Novel Ideas: My V](Generate%20Novel%20Ideas%20My%20V.md "upnote://x-callback-url/openNote?noteId=52008C4C-424E-495C-82D9-4707DD2F8153")
+- [[Generate Novel Ideas: My V]]
     - Using "3. Claude's V" for prompt, with Heideggerian language as foundational language for Nihilism as variable.
 
 # Initial Prompt 
 
 * * *
 
-[Generate Novel Ideas: My V](Generate%20Novel%20Ideas%20My%20V.md "upnote://x-callback-url/openNote?noteId=52008C4C-424E-495C-82D9-4707DD2F8153")
+[[Generate Novel Ideas: My V]]
 
 - Claude's V of Prompt
 - **Variable Used:** Heideggerian terminology as possible foundation to language that speaks of Nihilism as an expression or embodiment of the Transcendent

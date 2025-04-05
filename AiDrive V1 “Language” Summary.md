@@ -14,11 +14,11 @@ categories:
 
 Wednesday, January 31, 2024, #2023-1-31
 
-[AiDrive Summary of REN w/Thinkers](AiDrive%20Summary%20of%20REN%20wThinkers.md "upnote://x-callback-url/openNote?noteId=84da06ea-ea56-49a4-b293-d1ae98f0d28f")
+[[AiDrive Summary of REN w/Thinkers]]
 
-[AiDrive V1 Naturalism Summary](AiDrive%20V1%20Naturalism%20Summary.md)
+[[AiDrive V1 Naturalism Summary]]
 
-[AiDrive V1 Cyclical Summary of Journal314 47-51](AiDrive%20V1%20Cyclical%20Summary%20of%20Journal314%2047-51.md)
+[[AiDrive V1 Cyclical Summary of Journal314 47-51]]
 
 \[\[cyclical
 

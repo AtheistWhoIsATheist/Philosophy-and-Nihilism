@@ -14,7 +14,7 @@ categories:
 
 **8/22/24 #language, #Nihiltheism, #rensum**
 
-[Nihiltheism, Existentialism, and Liberation:](Nihiltheism%2C%20Existentialism%2C%20and%20Liberation.md "upnote://x-callback-url/openNote?noteId=463935B3-A4C1-4BA8-95D3-6D0BFF828BCD"): a note discussing the critique of existential defined liberation from  [The Imprisoned Pirate Analogy:](The%20Imprisoned%20Pirate%20Analogy.md "upnote://x-callback-url/openNote?noteId=a5bf7f06-2ce9-4445-ab34-959a56294c1d")
+[[Nihiltheism, Existentialism, and Liberation:]]: a note discussing the critique of existential defined liberation from  [[The Imprisoned Pirate Analogy:]]
 
 **
 
