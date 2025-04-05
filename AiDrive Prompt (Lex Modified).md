@@ -1,15 +1,13 @@
 ---
 date: 2024-08-05 13:51:11
-Date: 2024-02-20 14:23:16
-Folders:
-  - NT Research / Summaries / AiDriRenSums
-  - NT Research / Summaries / Lex Sums
-  - Prompts / AI Convos / LEX
+created: 2024-02-20 14:23:16
+categories:
+- NT Research / Summary / AiDrive
 ---
 
 # AiDrive Prompt (Lex Modified)
 
-#aidrive, #lex, [AIDrive "Three Prompts" w/Additional Versions](AIDrive Three Prompts wAdditional Versions.md)
+#aidrive, #lex, [[Additional Versions]]
 
 \### TOC
 

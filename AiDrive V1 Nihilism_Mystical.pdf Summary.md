@@ -1,11 +1,11 @@
 ---
 date: 2024-04-12 21:07:54
-created: 2024-02-09 17:02:26
-categories:
-- NT Research / NT Notes / Notes on Mysticism
-- NT Research / NT Notes / Notes on Mysticism / SP Mystical
-- NT Research / Summary
-- NT Research / Summary / AiDriRenSums
+Date: 2024-02-09 17:02:26
+Folders:
+  - NT Research / NT Notes / Notes on Mysticism
+  - NT Research / NT Notes / Notes on Mysticism / SP Mystical
+  - NT Research / Summaries
+  - NT Research / Summaries / AiDriRenSums
 ---
 
 # AiDrive V1 Nihilism\_Mystical.pdf Summary

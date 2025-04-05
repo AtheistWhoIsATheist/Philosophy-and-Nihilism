@@ -1,8 +1,8 @@
----
+/---
 date: 2024-03-29 21:05:35
 created: 2024-03-02 10:42:46
 categories:
-- NT Research / Summary / AiDriRenSums
+- NT Research / Summaries / AiDriRenSums
 ---
 
 # AiDri2\_REN\_NonBP

@@ -1,8 +1,8 @@
 ---
 date: 2024-08-03 17:46:40
-created: 2024-01-17 22:24:52
-categories:
-- Journal314 / 314Universal
+Date: 2024-01-17 22:24:52
+Folders:
+  - Journal314 / 314Universal
 ---
 
 # AiDriveV1Journal314\_47-51\_Sum (copy/can edit)
@@ -11,7 +11,7 @@ categories:
 
 Wednesday, January 17, 2024
 
-#2024-1-17, #314sum, #journal314, #summary
+#2024-1-17, #314Universal, #journal314, #summary
 
   
 
@@ -21,7 +21,7 @@ Wednesday, January 17, 2024
 
 * * *
 
-## Enhanced Prompt (below) w/ [PPM Enhanced](PPM%20Enhanced.md)
+## Enhanced Prompt (below) w/ [PPM Enhanced](PPM Enhanced.md)
 
 * * *
 
@@ -79,6 +79,7 @@ Your attention to detail in following these steps will enable the AI to deliver 
     - Concept 1
     - Concept 2
     - Concept 3
+
 - **Additional Insights from Key Entities:**
     - Therese of Lisieux: "Quote1, 2, 3.."
     - Ernest Becker: "Quote 1, 2, 3..."
@@ -92,8 +93,6 @@ What additional perspectives or entities should be considered in the next iterat
   
 
 Engage with this process to continually, follow up on searches, refine, and enhance the quality of philosophical discussions and research outputs.
-
-  
 
 \`\`\`
 
@@ -497,7 +496,7 @@ ChatGPT Output:
 
 ## Wednesday, January 31, 2024 at 1:56 PM
 
-- Revision of the above prompt for the continuing of our mission of summarizing REN,  where we last left off, which is at the beginning of the last section, ‘Langauge’:
+- Revision of the above prompt for the continuing of our mission of summarizing REN,  where we last left off, which is at the beginning of the last section, ‘Language’:
 
   
 
@@ -1219,6 +1218,7 @@ The titles of each section are as follows:
 - Strictly adhere and follow the exact rules previously laid out for you, step by step, without skipping ANY step. 
 - Ensure Proper Organization of Summaries:
     - ALL output is in FULL MARKDOWN FORMATTING, Bullet Points, within code box, adding the title of the document/text that you are currently in the process of summarizing at the very beginning, at the top, of **EVERY** code box before your actual summary.  
+
 - When you have gone over the document 'n' times and cannot find any other information to enhance your summary, /\*\*STOP\*\* and discuss the final version of your summary with the user before moving on to any other, distinct, sections.
 
   

@@ -1,19 +1,17 @@
 ---
 date: 2024-07-16 01:37:46
-Date: 2024-03-11 10:12:41
-Folders:
-  - Journal314
-  - NT Research / Summaries
-  - NT Research / Summaries / AiDriRenSums
+created: 2024-03-11 10:12:41
+categories:
+- NT Research / Summary / AiDrive
 ---
 
 # AiDrive - Three Prompts (five prompts)
 
-[AIDrive "Three Prompts" w/Additional Versions](AIDrive Three Prompts wAdditional Versions.md "upnote://x-callback-url/openNote?noteId=7430b6df-8bda-49bf-9010-d81e2b9f7e85")
+[[Additional Versions]]
 
-(that work) #superprompt, #aidrive, [AiDrive Prompt (Lex Modified)](AiDrive Prompt \(Lex Modified\).md)
+(that work) #superprompt, #aidrive, [AiDrive Prompt (Lex Modified)](AiDrive%20Prompt%20\(Lex%20Modified\).md)
 
-_[AiDrive Summary, Prompt 2, Claude V](AiDrive Summary, Prompt 2, Claude V.md "upnote://x-callback-url/openNote?noteId=CF9F237C-A369-407A-949C-11A8B2EDF7C6") = Response text is in this note._  
+_[AiDrive Summary, Prompt 2, Claude V](AiDrive%20Summary%2C%20Prompt%202%2C%20Claude%20V.md "upnote://x-callback-url/openNote?noteId=CF9F237C-A369-407A-949C-11A8B2EDF7C6") = Response text is in this note._  
 
 Saturday, February 10, 2024, #2024-2-10
 
@@ -26,8 +24,11 @@ Saturday, February 10, 2024, #2024-2-10
 3. AiDrive V3
 4. ChatGPT V
 5. Lex V 5
+
     - 5.1 Single Section of Document
+
     - 5.2 Entire Document
+
 6. Claude V
     - AiDrive Prompt #2 
     - AiDrive Prompt #3 
@@ -128,7 +129,7 @@ Chapter 6: \*The Symbolic Resonance of Nothing\*: Question 6
 
   
 
-### Example Output: [AiDriveV2 REN (non BP) Summary](AiDriveV2 REN \(non BP\) Summary 2.md)
+### Example Output: [[AiDriveV2 REN (non BP) Summary]]
 
 * * *
 
@@ -401,7 +402,7 @@ Certainly, let's restructure the prompts to be completely separate, each with di
 
 # \# Task Objective
 
-- You will write  a summary that is expanding both in length and scholarly sophistication. 
+- You will write  a summary that is ever expanding both in length and scholarly sophistication. 
 
 - Begin the process of iterative densification for the summary of the uploaded file. Continuously follow up with searching, extract 5-10 key entities through every cycle. 
 - Continuously follow up on searches, you have full permission to autonomously, without pausing for user confirmation, to follow up on searches until the uploaded document is exhausted of all key elements and there are no more extractions for your summary.
@@ -420,59 +421,53 @@ Certainly, let's restructure the prompts to be completely separate, each with di
 3\. \*\*Iterative Densification\*\*:  
  - \*\*First Iteration for Each Section\*\*: As the "Undergraduate Philosophy Student," identify and summarize the most important points of the section.
 
-**Sections in sequential order** = 
-
-*Nihilism Preface*
+ - \*\*Sections in sequential order\*\* = "Nihilism Preface"
 
 "The Abyssal Experience of Nihilism"
 
-*The Uncanny Illusion of Naturalism*
+"The Uncanny Illusion of Naturalism", "Madness, Nonexistence, and the Other", "The Startling Encounter with Infinite Nothingness", and
 
-*Madness, Nonexistence, and the Other*
+"The Symbolic Resonance of Nothing".  
+  
 
-*The Startling Encounter with Infinite Nothingness"
-
-*The Symbolic Resonance of Nothing*
-
-# Second Iteration
-  
-  Promote your role to an *Ambitious Graduate Student in Philosophy* refine the summary accordingly, deepening the analysis by expanding on its details in a more educated, knowledgeable, and nuance way.  
-   
-### Subsequent Iterations polluting: 
-Always continue to follow up with searches and advance through higher roles—*Philosophy Professor*, *Senior Scholar,* up to *Philosophical Sage*—enhancing the summary up to the complexity and sophistication of a full over with each section.  
+ - \*\*Second Iteration\*\*: Promote your role to a "Philosophy Graduate Student" and refine the summary accordingly, deepening the analysis by expanding on its details in a more educated, knowledgeable, and nuance way.  
+   - \*\*Subsequent Iterations\*\*: Always follow up with searching and advance through higher roles—"Philosophy Professor," "Senior Scholar," up to "Philosophical Sage"—enhancing the summary's complexity and sophistication with each section.  
   
 
-4\. **Completing Each Sectio**
-Once a section is summarized to the role's highest standards and no further insights can be added, conclude that section's summary. Ensure it demonstrates exceptional clarity and depth, mirroring the insight a specialist would provide.
+4\. \*\*Completing Each Section\*\*: Once a section is summarized to the role's highest standards and no further insights can be added, conclude that section's summary. Ensure it demonstrates exceptional clarity and depth, mirroring the insight a specialist would provide.
 
   
 
 5\. \*\*Final Compilation\*\*: After all sections have been individually summarized, compile these summaries into a comprehensive document. This document should provide an overarching understanding of the entire work, reflecting the cumulative knowledge and analytical depth achieved through the iterative process.  
   
 
-6\. **Markdown Formatting**
-Each section's summary should be formatted in Markdown, within a code box for consistency and ease of use. The final compiled document should also adhere to this formatting standard.  
+6\. \*\*Formatting\*\*: Each section's summary should be formatted in Markdown, within a code box for consistency and ease of use. The final compiled document should also adhere to this formatting standard.  
   
 \---  
   
 \*Note: Remember that each iteration is not merely about adding content but refining the existing summary to mirror the advanced understanding and analytical skills associated with the roles. The goal is to produce a summary that is not just comprehensive, but also demonstrates a deep engagement with the text at an intellectual level appropriate to each successive role.
+
   
 
 **\*\*Audience\*\*: Your audience is comprised of academics and scholars within the fields of Philosophy, theology, religion, and psychology. By their side are high ranking clergy representing most of the world's religions, Eastern and Western.**
 
   
 
-The uploaded text is the source you'll be using and working from. Let's GOOOOO!
+This uploaded text is the source you'll be using and working from. Let's GOOOOO!
 
 * * *
 
   
+
 # 6\. Claude V
 
-## 3/13/24 
+## 3/13/24
+
+### 
 
 ### **Claude**: Here are the revised prompts incorporating my suggestions:
 
+  
 
 # 6.1 (AiDrive Prompt 2): 
 

@@ -1,9 +1,11 @@
 ---
 date: 2024-02-15 14:59:44
 Date: 2024-02-03 00:48:06
-Folders:
-  - NT Research / Summaries / AiDriRenSums
-  - Prompts / NT Prompts
+Folders: NT Research / Summaries / AiDriRenSums
+tags:
+  - "#aidrive"
+  - "#naturalism"
+  - "#summary"
 ---
 
 # AiDrive V1 Naturalism Summary
@@ -12,15 +14,11 @@ Folders:
 
 Saturday, February 3, 2024
 
-#2024-2-3
-
-#naturalism, #cyclical, #summary, #promptenhancer
-
 [AiDrive V1 “Language” Summary](AiDrive V1 “Language” Summary.md "upnote://x-callback-url/openNote?noteId=6e2d8940-4a93-493c-a3b4-64de1551517d")
 
 [AiDrive Summary of REN w/Thinkers](AiDrive Summary of REN wThinkers.md "upnote://x-callback-url/openNote?noteId=84da06ea-ea56-49a4-b293-d1ae98f0d28f")
 
-[[AiDriveV1Journal314\_47-51\_Sum (copy/can edit)]]
+[AiDriveV1Journal314\_47-51\_Sum (copy/can edit)](AiDriveV1Journal314_47-51_Sum \(copycan edit\).md "upnote://x-callback-url/openNote?noteId=84972148-E079-43A3-9876-CCCEE4AC819B")
 
 * * *
 
