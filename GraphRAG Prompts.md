@@ -1,8 +1,8 @@
 ---
 date: 2024-07-06 18:09:30
-Date: 2024-07-06 18:08:11
-Folders:
-  - NT Research / Summaries / Prompts4Sums
+created: 2024-07-06 18:08:11
+categories:
+- NT Research / Summary / Prompts4Sums
 ---
 
 # GraphRAG Prompts

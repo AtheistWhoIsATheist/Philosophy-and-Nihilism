@@ -2,7 +2,7 @@
 date: 2025-01-03 05:09:18
 created: 2024-11-13 13:33:43
 categories:
-- NT Research / Summary / Summary Prompts
+- NT Research / Summary / Prompts4Sums
 ---
 
 # Taskade Prompt Block
@@ -13,8 +13,8 @@ categories:
 
 backlinks:
 
-- [PROFESSOR NIHIL Compendium](PROFESSOR%20NIHIL%20Compendium.md)
-- [Professor Nihil: The Celestial Compendium of Nihiltheistic Revelation](Professor%20Nihil%20The%20Celestial%20Compendium%20of%20Nihiltheistic%20Revelation.md)
+- [[PROFESSOR NIHIL Compendium]]
+- [[Professor Nihil: The Celestial Compendium of Nihiltheistic Revelation]]
 
 \### TOC
 

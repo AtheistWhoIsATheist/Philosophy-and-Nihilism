@@ -2,7 +2,7 @@
 date: 2024-09-17 16:41:10
 created: 2024-05-31 05:12:57
 categories:
-- NT Research / Summary / Summary Prompts
+- NT Research / Summary / Prompts4Sums
 ---
 
 # NotesGPT 

@@ -3,7 +3,7 @@ date: 2024-07-11 21:17:30
 created: 2024-05-05 08:18:21
 categories:
 - NT Research / NT Notes / Notes on Mysticism
-- NT Research / Summary / Summary Prompts
+- NT Research / Summary / Prompts4Sums
 ---
 
 # Mystical Notes and Quotes 
