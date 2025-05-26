@@ -1,10 +1,17 @@
+---
+title: HARPA 314REN
+date created: 2025-03-27
+last updated: 2025-03-27T09:56:00
+tags:
+  - harpa
+  - deepresearch
+  - 314ren
+Backlinks: "[[314RENGemNBLMNotes]]"
+description: HARPA wrote this only with the two uploads , Journal314 all quotes and REN
+---
 # 314REN Deep Research w/ Only REN&314
 
 - #harpa V w/ ONLY REN and #!$ as sources
-
-#314Prompt  #314quotes  #314RENSum#ren
-
-
 
 ---
 

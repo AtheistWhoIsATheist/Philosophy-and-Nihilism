@@ -1,6 +1,5 @@
 ---
-date: 2025-02-27 17:19:21
-created: 2025-02-27 17:18:14
+date created: 2025-02-27 17:19:21
 ---
 
 # Deep Research 01 w/Fancy Prompts, not Simple
